@@ -1,7 +1,8 @@
 "use strict"
 
+const mongoose = require("mongoose")
+const nerdcastModel = mongoose.model("nerdcast")
 const { mongoConnect } = require("../db/connect-db")
-const nerdcastModel = require("../models/nerdcast-model")
 const JNService = require("../services/jovemNerd-service")
 
 async function findListEpisodes() {

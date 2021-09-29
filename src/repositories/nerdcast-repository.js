@@ -1,6 +1,7 @@
 "use strict"
 
-const Nerdcast = require("../models/nerdcast-model")
+const mongoose = require("mongoose")
+const Nerdcast = mongoose.model("nerdcast")
 
 exports.getConvidadosPorCategoria = async () => {
   const res = await Nerdcast.aggregate([
