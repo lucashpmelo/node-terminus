@@ -1,16 +1,8 @@
-const mongoose = require("mongoose")
+"use strict"
+
+const { mongoConnect } = require("../db/connect-db")
 const nerdcastModel = require("../models/nerdcast-model")
 const JNService = require("../services/jovemNerd-service")
-const { connectionString } = require("../config")
-
-async function mongoConnect() {
-  return await mongoose.connect(connectionString, {
-    useCreateIndex: true,
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    autoIndex: true,
-  })
-}
 
 async function findListEpisodes() {
   const params = {
