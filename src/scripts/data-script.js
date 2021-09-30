@@ -1,9 +1,9 @@
-"use strict"
+'use strict'
 
-const { mongoConnect } = require("../db/connect-db")
-const nerdcastRepository = require("../repositories/nerdcast-repository")
-const { jsonToCSV } = require("../util")
-const fs = require("fs")
+const { mongoConnect } = require('../db/connect-db')
+const nerdcastRepository = require('../repositories/nerdcast-repository')
+const { jsonToCSV } = require('../util')
+const fs = require('fs')
 
 async function convidadosPorCategoria() {
   await mongoConnect()
@@ -12,7 +12,7 @@ async function convidadosPorCategoria() {
 
   const csv = jsonToCSV(data)
 
-  fs.writeFileSync("./src/data/csv/ConvidadosPorCategoria.csv", csv)
+  fs.writeFileSync('./src/data/csv/ConvidadosPorCategoria.csv', csv)
 }
 
 // convidadosPorCategoria().catch((err) => console.log(err))
@@ -24,7 +24,7 @@ async function convidadosPorTema() {
 
   const csv = jsonToCSV(data)
 
-  fs.writeFileSync("./src/data/csv/ConvidadosPorTema.csv", csv)
+  fs.writeFileSync('./src/data/csv/ConvidadosPorTema.csv', csv)
 }
 
 // convidadosPorTema().catch((err) => console.log(err))
@@ -36,7 +36,7 @@ async function convidadosPorParticipacoes() {
 
   const csv = jsonToCSV(data)
 
-  fs.writeFileSync("./src/data/csv/ConvidadosPorParticipacoes.csv", csv)
+  fs.writeFileSync('./src/data/csv/ConvidadosPorParticipacoes.csv', csv)
 }
 
 // convidadosPorParticipacoes().catch((err) => console.log(err))

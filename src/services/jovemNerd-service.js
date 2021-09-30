@@ -1,18 +1,18 @@
-"use strict"
+'use strict'
 
-const axios = require("axios")
+const axios = require('axios')
 
 const instance = axios.create({
-  baseURL: "https://jovemnerd.com.br/wp-json/jovemnerd/v1",
-  responseType: "json",
+  baseURL: 'https://jovemnerd.com.br/wp-json/jovemnerd/v1',
+  responseType: 'json',
   timeout: 30000,
 })
 
 exports.sinc = async (params) => {
   try {
     const options = {
-      method: "GET",
-      url: "/nerdcasts",
+      method: 'GET',
+      url: '/nerdcasts',
       params: params,
     }
 
@@ -27,7 +27,7 @@ exports.sinc = async (params) => {
 
       return { status, data }
     } else if (error.request) {
-      if (error.code === "ECONNABORTED") {
+      if (error.code === 'ECONNABORTED') {
         const retorno = {
           status: 504,
           data: {

@@ -1,16 +1,16 @@
-"use strict"
+'use strict'
 
-const mongoose = require("mongoose")
-const Nerdcast = mongoose.model("nerdcast")
+const mongoose = require('mongoose')
+const Nerdcast = mongoose.model('nerdcast')
 
 exports.getConvidadosPorCategoria = async () => {
   const res = await Nerdcast.aggregate([
-    { $unwind: "$guests" },
+    { $unwind: '$guests' },
     {
       $group: {
-        _id: { product: "$product", id: "$guests.id" },
-        product_name: { $max: "$product_name" },
-        nome: { $max: "$guests.name" },
+        _id: { product: '$product', id: '$guests.id' },
+        product_name: { $max: '$product_name' },
+        nome: { $max: '$guests.name' },
         soma: { $sum: 1 },
       },
     },
@@ -18,11 +18,11 @@ exports.getConvidadosPorCategoria = async () => {
     {
       $project: {
         _id: false,
-        product: "$_id.product",
-        categoria: "$product_name",
-        idGuest: "$_id.id",
-        convidado: "$nome",
-        total: "$soma",
+        product: '$_id.product',
+        categoria: '$product_name',
+        idGuest: '$_id.id',
+        convidado: '$nome',
+        total: '$soma',
       },
     },
   ])
@@ -32,24 +32,24 @@ exports.getConvidadosPorCategoria = async () => {
 
 exports.getConvidadosPorTema = async () => {
   const res = await Nerdcast.aggregate([
-    { $project: { subject: { $split: ["$subject", ","] }, guests: "$guests" } },
-    { $unwind: "$subject" },
-    { $unwind: "$guests" },
+    { $project: { subject: { $split: ['$subject', ','] }, guests: '$guests' } },
+    { $unwind: '$subject' },
+    { $unwind: '$guests' },
     {
       $group: {
-        _id: { subject: "$subject", id: "$guests.id" },
-        nome: { $max: "$guests.name" },
+        _id: { subject: '$subject', id: '$guests.id' },
+        nome: { $max: '$guests.name' },
         soma: { $sum: 1 },
       },
     },
-    { $sort: { "_id.subject": 1, soma: -1, nome: 1 } },
+    { $sort: { '_id.subject': 1, soma: -1, nome: 1 } },
     {
       $project: {
         _id: false,
-        tema: "$_id.subject",
-        idGuest: "$_id.id",
-        convidado: "$nome",
-        total: "$soma",
+        tema: '$_id.subject',
+        idGuest: '$_id.id',
+        convidado: '$nome',
+        total: '$soma',
       },
     },
   ])
@@ -59,11 +59,11 @@ exports.getConvidadosPorTema = async () => {
 
 exports.getConvidadosPorParticipacoes = async () => {
   const res = await Nerdcast.aggregate([
-    { $unwind: "$guests" },
+    { $unwind: '$guests' },
     {
       $group: {
-        _id: "$guests.id",
-        nome: { $max: "$guests.name" },
+        _id: '$guests.id',
+        nome: { $max: '$guests.name' },
         soma: { $sum: 1 },
       },
     },
@@ -71,9 +71,9 @@ exports.getConvidadosPorParticipacoes = async () => {
     {
       $project: {
         _id: false,
-        idGuest: "$_id",
-        convidado: "$nome",
-        total: "$soma",
+        idGuest: '$_id',
+        convidado: '$nome',
+        total: '$soma',
       },
     },
   ])

@@ -1,10 +1,10 @@
-"use strict"
+'use strict'
 
-const mongoose = require("mongoose")
-const { connectionString } = require("../config")
+const mongoose = require('mongoose')
+const { connectionString } = require('../config')
 
 // Carrega os Models
-const Nerdcast = require("../models/nerdcast-model")
+const Nerdcast = require('../models/nerdcast-model')
 
 exports.mongoConnect = async () => {
   return await mongoose.connect(connectionString, {

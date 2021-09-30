@@ -1,14 +1,14 @@
-"use strict"
+'use strict'
 
-const mongoose = require("mongoose")
-const nerdcastModel = mongoose.model("nerdcast")
-const { mongoConnect } = require("../db/connect-db")
-const JNService = require("../services/jovemNerd-service")
+const mongoose = require('mongoose')
+const nerdcastModel = mongoose.model('nerdcast')
+const { mongoConnect } = require('../db/connect-db')
+const JNService = require('../services/jovemNerd-service')
 
 async function findListEpisodes() {
   const params = {
-    order: "ASC",
-    orderby: "id",
+    order: 'ASC',
+    orderby: 'id',
     offset: 0,
     per_page: 50,
   }
@@ -18,15 +18,15 @@ async function findListEpisodes() {
   while (flag) {
     const { data } = await JNService.sinc(params)
 
-    console.log("OFFSET: ", params.offset)
-    console.log("RETORNO: ", data.length)
+    console.log('OFFSET: ', params.offset)
+    console.log('RETORNO: ', data.length)
 
     if (data.length) {
       for (const i in data) {
         await findById(data[i].id)
       }
 
-      params["offset"] += params.per_page
+      params['offset'] += params.per_page
     } else {
       flag = false
     }
@@ -50,13 +50,13 @@ async function findById(id) {
 }
 
 async function run() {
-  console.log("INICIO")
+  console.log('INICIO')
 
   await mongoConnect()
 
   await findListEpisodes()
 
-  console.log("FIM")
+  console.log('FIM')
 }
 
 run().catch((err) => console.log(err))

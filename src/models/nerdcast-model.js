@@ -1,6 +1,6 @@
-"use strict"
+'use strict'
 
-const mongoose = require("mongoose")
+const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 
 const schema = new Schema({
@@ -86,19 +86,19 @@ const schema = new Schema({
   description: {
     type: String,
   },
-  "jump-to-time": {
+  'jump-to-time': {
     type: Object,
   },
   guests: {
     type: Array,
   },
-  "cacete-de-agulha": {
+  'cacete-de-agulha': {
     type: Array,
   },
-  "escalpo-solidario": {
+  'escalpo-solidario': {
     type: Array,
   },
-  "fan-arts": {
+  'fan-arts': {
     type: Array,
   },
   editor: {
@@ -112,4 +112,4 @@ const schema = new Schema({
   },
 })
 
-module.exports = mongoose.model("nerdcast", schema)
+module.exports = mongoose.model('nerdcast', schema)
