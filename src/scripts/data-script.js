@@ -40,3 +40,15 @@ async function convidadosPorParticipacoes() {
 }
 
 // convidadosPorParticipacoes().catch((err) => console.log(err))
+
+async function episodiosPorDuracao() {
+  await mongoConnect()
+
+  const data = await nerdcastRepository.getEpisodiosPorDuracao()
+
+  const csv = jsonToCSV(data)
+
+  fs.writeFileSync('./src/data/csv/EpisodiosPorDuracao.csv', csv)
+}
+
+// episodiosPorDuracao().catch((err) => console.log(err))

@@ -80,3 +80,62 @@ exports.getConvidadosPorParticipacoes = async () => {
 
   return res
 }
+
+exports.getEpisodiosPorDuracao = async () => {
+  const products = await Nerdcast.aggregate([
+    { $group: { _id: '$product' } },
+    { $sort: { _id: 1 } },
+    { $project: { _id: false, product: '$_id' } },
+  ])
+
+  const res = await Promise.all(
+    products.map(async function ({ product }) {
+      const aggregate = [
+        { $match: { product: `${product}` } },
+        {
+          $facet: {
+            durationMin: [{ $sort: { duration: 1 } }, { $limit: 1 }],
+            durationMax: [{ $sort: { duration: -1 } }, { $limit: 1 }],
+            durationAvg: [
+              { $group: { _id: null, media: { $avg: '$duration' } } },
+            ],
+            info: [
+              {
+                $group: {
+                  _id: null,
+                  product: { $max: '$product' },
+                  product_name: { $max: '$product_name' },
+                },
+              },
+            ],
+          },
+        },
+        {
+          $addFields: {
+            min: { $arrayElemAt: ['$durationMin', 0] },
+            max: { $arrayElemAt: ['$durationMax', 0] },
+            avg: { $arrayElemAt: ['$durationAvg', 0] },
+            info: { $arrayElemAt: ['$info', 0] },
+          },
+        },
+        {
+          $project: {
+            product: '$info.product',
+            categoria: '$info.product_name',
+            minDuration: { $toInt: '$min.duration' },
+            minEpisode: '$min.episode',
+            minTitle: '$min.title',
+            maxDuration: { $toInt: '$max.duration' },
+            maxEpisode: '$max.episode',
+            maxTitle: '$max.title',
+            media: { $toInt: '$avg.media' },
+          },
+        },
+      ]
+
+      return Nerdcast.aggregate(aggregate).then((res) => res[0])
+    })
+  )
+
+  return res
+}
