@@ -1,9 +1,9 @@
 'use strict'
 
+const fs = require('fs')
 const { mongoConnect } = require('../db/connect-db')
 const nerdcastRepository = require('../repositories/nerdcast-repository')
 const { jsonToCSV } = require('../util')
-const fs = require('fs')
 
 async function convidadosPorCategoria() {
   await mongoConnect()

@@ -1,6 +1,7 @@
 'use strict'
 
 const mongoose = require('mongoose')
+const fs = require('fs')
 const { mongoConnect } = require('../db/connect-db')
 const nerdcastList = require('../data/json/nerdcasts-sinc_2021-09-28.json')
 
@@ -27,9 +28,16 @@ async function exportEpisodes() {
 
   const episodes = await Nerdcast.find({})
 
-  return episodes.map((episode) => {
+  const data = episodes.map((episode) => {
     return episode.export
   })
+
+  fs.writeFileSync(
+    './src/data/json/nerdcasts-sinc_2021-09-28.json',
+    JSON.stringify(data)
+  )
+
+  return data
 }
 
 async function run() {
@@ -37,13 +45,14 @@ async function run() {
 
   await mongoConnect()
 
-  const retorno = await importEpisodes()
+  // const retorno = await importEpisodes()
+  // const retorno = await exportEpisodes()
 
   console.log('FIM')
 
   return retorno
 }
 
-run()
-  .then((res) => console.log(res))
-  .catch((err) => console.log(err))
+// run()
+//   .then((res) => console.log(res))
+//   .catch((err) => console.log(err))
