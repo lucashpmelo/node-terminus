@@ -25,6 +25,7 @@ const schema = new Schema({
   },
   duration: {
     type: Number,
+    index: true,
   },
   title: {
     type: String,
@@ -110,6 +111,44 @@ const schema = new Schema({
   post_type_class: {
     type: String,
   },
+})
+
+schema.virtual('export').get(function () {
+  return {
+    id: this.id,
+    url: this.url,
+    published_at: this.published_at,
+    pub_date: this.pub_date,
+    modified_at: this.modified_at,
+    duration: this.duration,
+    title: this.title,
+    slug: this.slug,
+    episode: this.episode,
+    product: this.product,
+    product_name: this.product_name,
+    product_email: this.product_email,
+    friendly_post_type: this.friendly_post_type,
+    friendly_post_type_slug: this.friendly_post_type_slug,
+    friendly_post_time: this.friendly_post_time,
+    subject: this.subject,
+    image: this.image,
+    image_alt: this.image_alt,
+    audio_high: this.audio_high,
+    audio_medium: this.audio_medium,
+    audio_low: this.audio_low,
+    audio_zip: this.audio_zip,
+    insertions: this.insertions,
+    ads: this.ads,
+    description: this.description,
+    'jump-to-time': this['jump-to-time'],
+    guests: this.guests,
+    'cacete-de-agulha': this['cacete-de-agulha'],
+    'escalpo-solidario': this['escalpo-solidario'],
+    'fan-arts': this['fan-arts'],
+    editor: this.editor,
+    comments: this.comments,
+    post_type_class: this.post_type_class,
+  }
 })
 
 module.exports = mongoose.model('nerdcast', schema)

@@ -1,7 +1,7 @@
 'use strict'
 
 const mongoose = require('mongoose')
-const nerdcastModel = mongoose.model('nerdcast')
+const Nerdcast = mongoose.model('nerdcast')
 const { mongoConnect } = require('../db/connect-db')
 const JNService = require('../services/jovemNerd-service')
 
@@ -44,7 +44,7 @@ async function findById(id) {
 
   if (status >= 400) throw new Error(data.message)
 
-  const nerdcast = new nerdcastModel(data)
+  const nerdcast = new Nerdcast(data)
 
   return nerdcast.save()
 }
