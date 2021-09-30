@@ -1,7 +1,7 @@
 {
   "name": "node-terminus",
   "version": "0.1.0",
-  "description": "",
+  "description": "Projeto Terminus",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,14 @@
     "axios": "^0.21.4",
     "json2csv": "^5.0.6",
     "mongoose": "^5.13.9"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashpmelo/node-terminus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucashpmelo/node-terminus/issues"
+  },
+  "homepage": "https://github.com/lucashpmelo/node-terminus#readme"
 }
