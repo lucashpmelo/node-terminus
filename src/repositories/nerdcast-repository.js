@@ -97,7 +97,7 @@ exports.getEpisodiosPorDuracao = async () => {
             durationMin: [{ $sort: { duration: 1 } }, { $limit: 1 }],
             durationMax: [{ $sort: { duration: -1 } }, { $limit: 1 }],
             durationAvg: [
-              { $group: { _id: null, media: { $avg: '$duration' } } },
+              { $group: { _id: null, duration: { $avg: '$duration' } } },
             ],
             info: [
               {
@@ -128,7 +128,7 @@ exports.getEpisodiosPorDuracao = async () => {
             maxDuration: { $toInt: '$max.duration' },
             maxEpisode: '$max.episode',
             maxTitle: '$max.title',
-            media: { $toInt: '$avg.media' },
+            avgDuration: { $toInt: '$avg.duration' },
           },
         },
       ]
