@@ -29,3 +29,54 @@ exports.getConvidadosPorCategoria = async () => {
 
   return res
 }
+
+exports.getConvidadosPorTema = async () => {
+  const res = await Nerdcast.aggregate([
+    { $project: { subject: { $split: ["$subject", ","] }, guests: "$guests" } },
+    { $unwind: "$subject" },
+    { $unwind: "$guests" },
+    {
+      $group: {
+        _id: { subject: "$subject", id: "$guests.id" },
+        nome: { $max: "$guests.name" },
+        soma: { $sum: 1 },
+      },
+    },
+    { $sort: { "_id.subject": 1, soma: -1, nome: 1 } },
+    {
+      $project: {
+        _id: false,
+        tema: "$_id.subject",
+        idGuest: "$_id.id",
+        convidado: "$nome",
+        total: "$soma",
+      },
+    },
+  ])
+
+  return res
+}
+
+exports.getConvidadosPorParticipacoes = async () => {
+  const res = await Nerdcast.aggregate([
+    { $unwind: "$guests" },
+    {
+      $group: {
+        _id: "$guests.id",
+        nome: { $max: "$guests.name" },
+        soma: { $sum: 1 },
+      },
+    },
+    { $sort: { soma: -1, nome: 1 } },
+    {
+      $project: {
+        _id: false,
+        idGuest: "$_id",
+        convidado: "$nome",
+        total: "$soma",
+      },
+    },
+  ])
+
+  return res
+}
