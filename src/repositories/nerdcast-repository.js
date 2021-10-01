@@ -139,3 +139,34 @@ exports.getEpisodiosPorDuracao = async () => {
 
   return res
 }
+
+exports.getQuantidadeConvidadosPorPrograma = async () => {
+  const res = await Nerdcast.aggregate([
+    { $unwind: '$guests' },
+    {
+      $group: {
+        _id: {
+          id: '$id',
+          product: '$product',
+          product_name: '$product_name',
+          title: '$title',
+          episode: '$episode',
+        },
+        soma: { $sum: 1 },
+      },
+    },
+    { $sort: { '_id.product': 1, soma: -1, '_id.episode': 1 } },
+    {
+      $project: {
+        _id: false,
+        product: '$_id.product',
+        categoria: '$_id.product_name',
+        episode: '$_id.episode',
+        titulo: '$_id.title',
+        total: '$soma',
+      },
+    },
+  ])
+
+  return res
+}
