@@ -1,14 +1,33 @@
-# 0.2.0 / 2021-10-02
+# Changelog
 
-- Adicionado(scripts): script de Import/Export de episódios
-- Adicionado(scripts): script de agrupamento de duração dos episódios
-- Adicionado(scripts): script de agrupamento da quantidade de convidados por programa
-- Adicionado(scripts): script de agrupamento do total episódios publicados por ano
-- Modificado(scripts): script de sincronização de dados dos episódios
+## [Não publicado]
 
-  # 0.1.0 / 2021-09-30
+### Adicionado
 
-- Adicionado(scripts): script de sincronização de dados dos episódios
-- Adicionado(scripts): script de agrupamento de convidados por participação
-- Adicionado(scripts): script de agrupamento de convidados por categoria
-- Adicionado(scripts): script de agrupamento de convidados por tema
+- Script de agrupamento de convidados por episódio
+
+## [0.2.0] / 2021-10-02
+
+### Adicionado
+
+- Script de Import/Export de episódios
+- Script de agrupamento de duração dos episódios
+- Script de agrupamento da quantidade de convidados por programa
+- Script de agrupamento do total episódios publicados por ano
+
+### Modificado
+
+- Script de sincronização de dados dos episódios
+
+## [0.1.0] / 2021-09-30
+
+### Adicionado
+
+- Script de sincronização de dados dos episódios
+- Script de agrupamento de convidados por participação
+- Script de agrupamento de convidados por categoria
+- Script de agrupamento de convidados por tema
+
+[não publicado]: https://github.com/lucashpmelo/node-terminus/compare/0.2.0...HEAD
+[0.2.0]: https://github.com/lucashpmelo/node-terminus/compare/0.1.0...0.2.0
+[0.1.0]: https://github.com/lucashpmelo/node-terminus/releases/tag/0.1.0
