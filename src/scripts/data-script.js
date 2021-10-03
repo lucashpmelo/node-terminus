@@ -76,3 +76,15 @@ async function totalEpisodiosPorAno() {
 }
 
 // totalEpisodiosPorAno().catch((err) => console.log(err))
+
+async function convidadosPorEpisodio() {
+  await mongoConnect()
+
+  const data = await nerdcastRepository.getConvidadosPorEpisodio()
+
+  const csv = jsonToCSV(data)
+
+  fs.writeFileSync('./src/data/csv/ConvidadosPorEpisodio.csv', csv)
+}
+
+// convidadosPorEpisodio().catch((err) => console.log(err))
