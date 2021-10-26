@@ -5,6 +5,7 @@
 ### Adicionado
 
 - Script de agrupamento de convidados por episódio
+- VS Code Settings
 
 ## [0.2.0] / 2021-10-02
 
