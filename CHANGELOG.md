@@ -6,6 +6,7 @@
 
 - Script de agrupamento de convidados por episódio
 - VS Code Settings
+- Comando _npm run data_ para executar todos scripts de agrupamento
 
 ## [0.2.0] / 2021-10-02
 

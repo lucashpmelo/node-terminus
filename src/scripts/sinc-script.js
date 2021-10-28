@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose')
 const Nerdcast = mongoose.model('nerdcast')
-const { mongoConnect } = require('../db/connect-db')
+const { mongoConnect } = require('../db/mongoose-db')
 const JNService = require('../services/jovemNerd-service')
 
 async function findListEpisodes() {

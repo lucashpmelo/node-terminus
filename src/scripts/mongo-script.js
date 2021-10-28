@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose')
 const fs = require('fs')
-const { mongoConnect } = require('../db/connect-db')
+const { mongoConnect } = require('../db/mongoose-db')
 const nerdcastList = require('../data/json/nerdcasts-sinc_2021-09-28.json')
 
 async function importEpisodes() {

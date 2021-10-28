@@ -14,3 +14,7 @@ exports.mongoConnect = async () => {
     autoIndex: true,
   })
 }
+
+exports.mongoDisconnect = async () => {
+  return await mongoose.disconnect()
+}
