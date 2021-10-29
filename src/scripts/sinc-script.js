@@ -29,7 +29,44 @@ async function findListEpisodes() {
           let nerdcast = await Nerdcast.findOne({ id: episode.id })
 
           if (!nerdcast) {
-            nerdcast = await findById(episode.id)
+            nerdcast = new Nerdcast()
+
+            const episodio = await findById(episode.id)
+
+            nerdcast['id'] = episodio.id
+            nerdcast['url'] = episodio.url
+            nerdcast['published_at'] = episodio.published_at
+            nerdcast['pub_date'] = episodio.pub_date
+            nerdcast['modified_at'] = episodio.modified_at
+            nerdcast['duration'] = episodio.duration
+            nerdcast['title'] = episodio.title
+            nerdcast['slug'] = episodio.slug
+            nerdcast['episode'] = episodio.episode
+            nerdcast['product'] = episodio.product
+            nerdcast['product_name'] = episodio.product_name
+            nerdcast['product_email'] = episodio.product_email
+            nerdcast['friendly_post_type'] = episodio.friendly_post_type
+            nerdcast['friendly_post_type_slug'] =
+              episodio.friendly_post_type_slug
+            nerdcast['friendly_post_time'] = episodio.friendly_post_time
+            nerdcast['subject'] = episodio.subject
+            nerdcast['image'] = episodio.image
+            nerdcast['image_alt'] = episodio.image_alt
+            nerdcast['audio_high'] = episodio.audio_high
+            nerdcast['audio_medium'] = episodio.audio_medium
+            nerdcast['audio_low'] = episodio.audio_low
+            nerdcast['audio_zip'] = episodio.audio_zip
+            nerdcast['insertions'] = episodio.insertions
+            nerdcast['ads'] = episodio.ads
+            nerdcast['description'] = episodio.description
+            nerdcast['jump-to-time'] = episodio['jump-to-time']
+            nerdcast['guests'] = episodio.guests
+            nerdcast['cacete-de-agulha'] = episodio['cacete-de-agulha']
+            nerdcast['escalpo-solidario'] = episodio['escalpo-solidario']
+            nerdcast['fan-arts'] = episodio['fan-arts']
+            nerdcast['editor'] = episodio.editor
+            nerdcast['comments'] = episodio.comments
+            nerdcast['post_type_class'] = episodio.post_type_class
           } else if (
             new Date(episode.modified_at).toISOString() !==
             new Date(nerdcast.modified_at).toISOString()
@@ -38,11 +75,44 @@ async function findListEpisodes() {
 
             if (!historico) historico = new Historico({ id: episode.id })
 
-            historico['lista'].push(nerdcast)
+            historico['lista'].push(nerdcast.toObject())
 
             bulkHistorico.push(historico)
 
-            nerdcast = await findById(episode.id)
+            const episodio = await findById(episode.id)
+
+            nerdcast.url = episodio.url
+            nerdcast.published_at = episodio.published_at
+            nerdcast.pub_date = episodio.pub_date
+            nerdcast.modified_at = episodio.modified_at
+            nerdcast.duration = episodio.duration
+            nerdcast.title = episodio.title
+            nerdcast.slug = episodio.slug
+            nerdcast.episode = episodio.episode
+            nerdcast.product = episodio.product
+            nerdcast.product_name = episodio.product_name
+            nerdcast.product_email = episodio.product_email
+            nerdcast.friendly_post_type = episodio.friendly_post_type
+            nerdcast.friendly_post_type_slug = episodio.friendly_post_type_slug
+            nerdcast.friendly_post_time = episodio.friendly_post_time
+            nerdcast.subject = episodio.subject
+            nerdcast.image = episodio.image
+            nerdcast.image_alt = episodio.image_alt
+            nerdcast.audio_high = episodio.audio_high
+            nerdcast.audio_medium = episodio.audio_medium
+            nerdcast.audio_low = episodio.audio_low
+            nerdcast.audio_zip = episodio.audio_zip
+            nerdcast.insertions = episodio.insertions
+            nerdcast.ads = episodio.ads
+            nerdcast.description = episodio.description
+            nerdcast['jump-to-time'] = episodio['jump-to-time']
+            nerdcast.guests = episodio.guests
+            nerdcast['cacete-de-agulha'] = episodio['cacete-de-agulha']
+            nerdcast['escalpo-solidario'] = episodio['escalpo-solidario']
+            nerdcast['fan-arts'] = episodio['fan-arts']
+            nerdcast.editor = episodio.editor
+            nerdcast.comments = episodio.comments
+            nerdcast.post_type_class = episodio.post_type_class
           }
 
           return nerdcast
@@ -67,8 +137,6 @@ async function findListEpisodes() {
 }
 
 async function findById(id) {
-  const Nerdcast = mongoose.model('nerdcast')
-
   const params = {
     id: id,
   }
@@ -77,9 +145,7 @@ async function findById(id) {
 
   if (status >= 400) throw new Error(data.message)
 
-  const nerdcast = new Nerdcast(data)
-
-  return nerdcast
+  return data
 }
 
 async function run() {

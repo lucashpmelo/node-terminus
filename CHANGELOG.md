@@ -11,6 +11,10 @@
 - README.md
 - Histórico de episódios alterados
 
+### Corrigido
+
+- Script de sincronização de dados dos episódios
+
 ### Modificado
 
 - Script de sincronização de dados dos episódios para gravar no histórico os episódios alterados
