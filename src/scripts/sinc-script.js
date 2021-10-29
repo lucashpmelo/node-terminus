@@ -6,6 +6,7 @@ const JNService = require('../services/jovemNerd-service')
 
 async function findListEpisodes() {
   const Nerdcast = mongoose.model('nerdcast')
+  const Historico = mongoose.model('historico')
 
   const params = {
     order: 'ASC',
@@ -21,11 +22,26 @@ async function findListEpisodes() {
     const { data } = await JNService.sinc(params)
 
     if (Array.isArray(data) && data.length) {
+      const bulkHistorico = []
+
       const bulk = await Promise.all(
         data.map(async function (episode) {
           let nerdcast = await Nerdcast.findOne({ id: episode.id })
 
           if (!nerdcast) {
+            nerdcast = await findById(episode.id)
+          } else if (
+            new Date(episode.modified_at).toISOString() !==
+            new Date(nerdcast.modified_at).toISOString()
+          ) {
+            let historico = await Historico.findOne({ id: episode.id })
+
+            if (!historico) historico = new Historico({ id: episode.id })
+
+            historico['lista'].push(nerdcast)
+
+            bulkHistorico.push(historico)
+
             nerdcast = await findById(episode.id)
           }
 
@@ -33,7 +49,10 @@ async function findListEpisodes() {
         })
       )
 
-      await Nerdcast.bulkSave(bulk)
+      await Promise.all([
+        Nerdcast.bulkSave(bulk),
+        Historico.bulkSave(bulkHistorico),
+      ])
 
       params['offset'] += params.per_page
       count += data.length

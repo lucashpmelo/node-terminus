@@ -9,6 +9,11 @@
 - Comando _npm run csv_ para gerar os CSV's dos dados sincronizados
 - Comando _npm run sinc_ para executar o script de sincronização dos episódios
 - README.md
+- Histórico de episódios alterados
+
+### Modificado
+
+- Script de sincronização de dados dos episódios para gravar no histórico os episódios alterados
 
 ## [0.2.0] / 2021-10-02
 
