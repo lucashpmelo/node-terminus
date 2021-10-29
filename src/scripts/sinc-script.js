@@ -1,11 +1,12 @@
 'use strict'
 
 const mongoose = require('mongoose')
-const Nerdcast = mongoose.model('nerdcast')
-const { mongoConnect } = require('../db/mongoose-db')
+const { mongoConnect, mongoDisconnect } = require('../db/mongoose-db')
 const JNService = require('../services/jovemNerd-service')
 
 async function findListEpisodes() {
+  const Nerdcast = mongoose.model('nerdcast')
+
   const params = {
     order: 'ASC',
     orderby: 'id',
@@ -14,19 +15,30 @@ async function findListEpisodes() {
   }
 
   let flag = true
+  let count = 0
 
   while (flag) {
     const { data } = await JNService.sinc(params)
 
-    console.log('OFFSET: ', params.offset)
-    console.log('RETORNO: ', data.length)
+    if (Array.isArray(data) && data.length) {
+      const bulk = await Promise.all(
+        data.map(async function (episode) {
+          let nerdcast = await Nerdcast.findOne({ id: episode.id })
 
-    if (data.length) {
-      for (const i in data) {
-        await findById(data[i].id)
-      }
+          if (!nerdcast) {
+            nerdcast = await findById(episode.id)
+          }
+
+          return nerdcast
+        })
+      )
+
+      await Nerdcast.bulkSave(bulk)
 
       params['offset'] += params.per_page
+      count += data.length
+
+      console.log(`${count} episódios sincronizados...`)
     } else {
       flag = false
     }
@@ -36,6 +48,8 @@ async function findListEpisodes() {
 }
 
 async function findById(id) {
+  const Nerdcast = mongoose.model('nerdcast')
+
   const params = {
     id: id,
   }
@@ -46,17 +60,19 @@ async function findById(id) {
 
   const nerdcast = new Nerdcast(data)
 
-  return nerdcast.save()
+  return nerdcast
 }
 
 async function run() {
-  console.log('INICIO')
+  console.log('INICIO DA SINCRONIZAÇÃO')
 
   await mongoConnect()
 
   await findListEpisodes()
 
-  console.log('FIM')
+  await mongoDisconnect()
+
+  console.log('FIM DA SINCRONIZAÇÃO')
 }
 
 run().catch((err) => console.log(err))

@@ -4,8 +4,8 @@
   "description": "Projeto Terminus",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "data": "node ./src/scripts/data-script.js"
+    "csv": "node ./src/scripts/data-script.js",
+    "sinc": "node ./src/scripts/sinc-script.js"
   },
   "keywords": [],
   "author": "",

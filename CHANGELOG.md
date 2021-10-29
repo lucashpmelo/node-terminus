@@ -6,7 +6,8 @@
 
 - Script de agrupamento de convidados por episódio
 - VS Code Settings
-- Comando _npm run data_ para executar todos scripts de agrupamento
+- Comando _npm run csv_ para gerar os CSV's dos dados sincronizados
+- Comando _npm run sinc_ para executar o script de sincronização dos episódios
 
 ## [0.2.0] / 2021-10-02
 
