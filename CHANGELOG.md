@@ -18,6 +18,7 @@
 ### Modificado
 
 - Script de sincronização de dados dos episódios para gravar no histórico os episódios alterados
+- Atualizado dados dos episódios
 
 ## [0.2.0] / 2021-10-02
 

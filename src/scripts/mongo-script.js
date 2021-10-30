@@ -3,7 +3,7 @@
 const mongoose = require('mongoose')
 const fs = require('fs')
 const { mongoConnect } = require('../db/mongoose-db')
-const nerdcastList = require('../data/json/nerdcasts-sinc_2021-09-28.json')
+const nerdcastList = require('../data/json/nerdcasts-sinc_2021-10-29.json')
 
 async function importEpisodes() {
   const Nerdcast = mongoose.model('nerdcast')
@@ -33,7 +33,7 @@ async function exportEpisodes() {
   })
 
   fs.writeFileSync(
-    './src/data/json/nerdcasts-sinc_2021-09-28.json',
+    './src/data/json/nerdcasts-sinc_2021-10-29.json',
     JSON.stringify(data)
   )
 

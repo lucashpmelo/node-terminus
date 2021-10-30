@@ -243,11 +243,12 @@
 "Comportamento",1212141895,"Marina Freire",1
 "Comportamento",1212141723,"Mary Joe",1
 "Comportamento",1212130298,"Mau Faccio",1
+"Comportamento",1212139440,"Patrícia Mafra",1
 "Comportamento",1212125498,"Pierre Schurmann",1
 "Comportamento",1212123647,"Rogério Bonfim",1
 "Comportamento",1212141033,"Tiago Abravanel",1
-"Cotidiano",1212122464,"Sr.K",31
-"Cotidiano",274,"Tucano",27
+"Cotidiano",1212122464,"Sr.K",32
+"Cotidiano",274,"Tucano",28
 "Cotidiano",3515,"JP",18
 "Cotidiano",2002,"Portuguesa",18
 "Cotidiano",1212138478,"Leila",9
@@ -256,8 +257,8 @@
 "Cotidiano",1212124836,"Guga Mafra",6
 "Cotidiano",1212138256,"Lierson Mattenhauer",6
 "Cotidiano",1212122795,"Affonso Solano",5
+"Cotidiano",1212122465,"Afonso 3d",4
 "Cotidiano",1212122798,"Francine Gladulich",4
-"Cotidiano",1212122465,"Afonso 3d",3
 "Cotidiano",1212122862,"Atila",3
 "Cotidiano",1212122796,"Beto Estrada",3
 "Cotidiano",2595,"Eduardo Spohr",3
@@ -307,9 +308,9 @@
 "Dia dos Namorados",326,"Guilherme Briggs",2
 "Dia dos Namorados",1212141723,"Mary Joe",1
 "Educação",1212139216,"Vinícius Fuzikawa",25
-"Educação",1212139590,"Pedro Paulo Silveira",23
+"Educação",1212139590,"Pedro Paulo Silveira",24
 "Educação",1212138688,"Rossana Modolin",20
-"Educação",1212124836,"Guga Mafra",15
+"Educação",1212124836,"Guga Mafra",16
 "Educação",1212126189,"Flávio Augusto",6
 "Educação",1212140324,"Ian Palanowski",4
 "Educação",1212140088,"Nicholas Kawasaki",4
@@ -328,9 +329,12 @@
 "Educação",1212141987,"Peter",2
 "Educação",1212138286,"Sérgio Barreto",2
 "Educação",1212122795,"Affonso Solano",1
+"Educação",1212138572,"Altay Souza",1
+"Educação",1212129496,"Ana Arantes",1
 "Educação",1212122862,"Atila",1
 "Educação",1212140627,"Bruna Sene",1
 "Educação",1212141688,"Caio Junqueira de Brito",1
+"Educação",1212137030,"Carlinhos Troll",1
 "Educação",1212122462,"Carlos Voltor",1
 "Educação",1212141683,"Caroline Souza",1
 "Educação",1212141591,"Claudia Chow",1
@@ -343,6 +347,7 @@
 "Educação",326,"Guilherme Briggs",1
 "Educação",1212141847,"Ian SBF",1
 "Educação",1212140107,"Ivys Urquiza",1
+"Educação",3515,"JP",1
 "Educação",1212139063,"João Ferreira",1
 "Educação",1212141730,"Jucival Fernandes",1
 "Educação",1212141985,"Julia Gutnik",1
@@ -357,6 +362,7 @@
 "Educação",4877,"Marco Gomes",1
 "Educação",1212141723,"Mary Joe",1
 "Educação",1212133328,"Nathalia Arcuri",1
+"Educação",1212142033,"Nicolas Borsoi",1
 "Educação",1212141588,"Paulo Cuenca",1
 "Educação",2002,"Portuguesa",1
 "Educação",1212140055,"Sérgio Cantu",1
@@ -380,6 +386,7 @@
 "Empreendedorismo",1212141810,"Hendel Favarin",1
 "Empreendedorismo",1212139063,"João Ferreira",1
 "Empreendedorismo",1212125928,"Ken Fujioka",1
+"Empreendedorismo",1212142071,"Kiko Reis",1
 "Empreendedorismo",1212141891,"Leandro Leite Soares",1
 "Empreendedorismo",1212142009,"Marcelo Fadul",1
 "Empreendedorismo",1212133328,"Nathalia Arcuri",1
@@ -653,13 +660,14 @@
 "Nostalgia",1212124836,"Guga Mafra",1
 "Nostalgia",1212128349,"Irado",1
 "Nostalgia",1212122952,"Leo Lopes",1
-"Notícias",1212141845,"Pedro Duarte",8
-"Notícias",1212139351,"Pri Ganiko",8
-"Notícias",1212141330,"Tayná Garcia",5
+"Notícias",1212139351,"Pri Ganiko",12
+"Notícias",1212141845,"Pedro Duarte",10
+"Notícias",1212141330,"Tayná Garcia",8
+"Notícias",1212141954,"Camila Sousa",2
+"Notícias",1212141859,"Gabriel Avila",2
+"Notícias",1212130299,"Marina Val",2
 "Notícias",1212141887,"Azaghal",1
-"Notícias",1212141954,"Camila Sousa",1
-"Notícias",1212141859,"Gabriel Avila",1
-"Notícias",1212130299,"Marina Val",1
+"Notícias",1212142053,"Jovem Nerd",1
 "Política",274,"Tucano",5
 "Política",2595,"Eduardo Spohr",4
 "Política",1212127694,"Filipe Figueiredo",4
@@ -789,13 +797,13 @@
 "Séries",274,"Tucano",24
 "Séries",1212122462,"Carlos Voltor",13
 "Séries",2595,"Eduardo Spohr",11
+"Séries",1212123226,"Rex",11
 "Séries",1212122669,"Leonel Caldela",10
-"Séries",1212123226,"Rex",10
 "Séries",1212122795,"Affonso Solano",9
-"Séries",1212137936,"Marcelo Bassoli",8
+"Séries",1212137936,"Marcelo Bassoli",9
+"Séries",1212140265,"Katiucha Barcelos",8
 "Séries",1212122464,"Sr.K",8
 "Séries",3515,"JP",7
-"Séries",1212140265,"Katiucha Barcelos",7
 "Séries",3508,"Guga Ferrari",6
 "Séries",1212123564,"Caio Gomes",5
 "Séries",2002,"Portuguesa",4
@@ -842,9 +850,9 @@
 "TV",1212122952,"Leo Lopes",1
 "TV",2002,"Portuguesa",1
 "TV",2003,"Sra. Jovem Nerd",1
-"Tecnologia",1212130385,"Paulo Silveira",62
-"Tecnologia",1212131200,"Maurício Linhares",52
-"Tecnologia",1212137166,"Roberta Arcoverde",22
+"Tecnologia",1212130385,"Paulo Silveira",63
+"Tecnologia",1212131200,"Maurício Linhares",53
+"Tecnologia",1212137166,"Roberta Arcoverde",23
 "Tecnologia",1212130386,"Sérgio Lopes",12
 "Tecnologia",1212122862,"Atila",11
 "Tecnologia",3244,"Bluehand",10
@@ -906,17 +914,24 @@
 "Teoria da Conspiração",1212127694,"Filipe Figueiredo",1
 "Teoria da Conspiração",3515,"JP",1
 "Terror",3244,"Bluehand",2
-"Terror",1212122462,"Carlos Voltor",1
+"Terror",1212122462,"Carlos Voltor",2
 "Terror",1212140052,"Cesar Gaglioni",1
 "Terror",3448,"Dubox",1
 "Terror",3515,"JP",1
 "Terror",1212138671,"Lyna",1
+"Terror",1212130298,"Mau Faccio",1
+"Terror",1212140172,"Max Valarezo",1
+"Terror",1212141293,"PH Santos",1
 "Terror",2002,"Portuguesa",1
 "Terror",2003,"Sra. Jovem Nerd",1
 "Terror",274,"Tucano",1
 "Trabalho",4877,"Marco Gomes",4
 "Trabalho",1212122464,"Sr.K",4
+"Trabalho",1212124836,"Guga Mafra",2
+"Trabalho",1212141891,"Leandro Leite Soares",2
 "Trabalho",274,"Tucano",2
+"Trabalho",1212142066,"Andre Racz",1
+"Trabalho",1212142065,"André Gomes",1
 "Trabalho",1212138903,"Bernardo Warman",1
 "Trabalho",1212123564,"Caio Gomes",1
 "Trabalho",1212141105,"Delcio Gomes",1
@@ -925,13 +940,13 @@
 "Trabalho",1212140666,"Fabrício Carraro",1
 "Trabalho",1212135105,"Fernando Reule",1
 "Trabalho",1212126189,"Flávio Augusto",1
-"Trabalho",1212124836,"Guga Mafra",1
 "Trabalho",1212137167,"Guilherme Camillo",1
 "Trabalho",1212141996,"Isabel Cristina Santos Ferreira",1
 "Trabalho",3515,"JP",1
 "Trabalho",1212138901,"Leandro Ibraim",1
-"Trabalho",1212141891,"Leandro Leite Soares",1
 "Trabalho",1212125950,"Marcela Versiani",1
+"Trabalho",1212141723,"Mary Joe",1
+"Trabalho",1212142055,"Maurici Pinto Oliveira",1
 "Trabalho",1212131200,"Maurício Linhares",1
 "Trabalho",1212130385,"Paulo Silveira",1
 "Trabalho",1212123226,"Rex",1

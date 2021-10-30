@@ -8,6 +8,7 @@
 "caneca-de-mamicas","Caneca de Mamicas","08","Vamos! Comigo! Que tá Magalvilhoso!",2
 "caneca-de-mamicas","Caneca de Mamicas","11","Culpa, fome, desespero e calça apertada",2
 "caneca-de-mamicas","Caneca de Mamicas","18","Quando o parto vira circo",2
+"caneca-de-mamicas","Caneca de Mamicas","24","Você trampa como eu trampo?",2
 "caneca-de-mamicas","Caneca de Mamicas","00","Ó a caneca de cuscuz no sábado da minha mamica aê!",1
 "caneca-de-mamicas","Caneca de Mamicas","01","Mãe Velha vs Mãe Nova",1
 "caneca-de-mamicas","Caneca de Mamicas","03","Diários da adolescência",1
@@ -19,6 +20,7 @@
 "caneca-de-mamicas","Caneca de Mamicas","15","Zerando a vida como um Rockstar",1
 "caneca-de-mamicas","Caneca de Mamicas","17","BDSM – Bad Ass Modafoca",1
 "caneca-de-mamicas","Caneca de Mamicas","19","A pressa é inimiga do parto ideal",1
+"caneca-de-mamicas","Caneca de Mamicas","22","A Favorita",1
 "empreendedor","Empreendedor","13","Empreendedorismo Digital",3
 "empreendedor","Empreendedor","14","Empreendendo entre gigantes",3
 "empreendedor","Empreendedor","15","Investidores do Vale do Silício",3
@@ -103,8 +105,10 @@
 "empreendedor","Empreendedor","76","Timing nos negócios: A venda do Orlando City",1
 "empreendedor","Empreendedor","78","Falar em Público: Dom, Dor ou Habilidade?",1
 "empreendedor","Empreendedor","79","Dobrando a meta",1
+"empreendedor","Empreendedor","81","Plataformas digitais e na vida real",1
 "extra","Extra","Oferecido por BIS XTRA","Adestrando cachorro-quente com Tik-Tik para alienígenas: Nerdcast Descontrolado e sem pauta",4
 "extra","Extra","Oferecido por Valorant","Valorant: Spike Plantada",4
+"extra","Extra","Oferecido por Avanade","O consultor, o chupa-cabra e o fantasma do Hi-Tech",2
 "extra","Extra","Oferecido por Participathivos","Vivendo com HIV",2
 "extra","Extra","Oferecido por Spotify","Paciente 63: De viajante do tempo e louco todo mundo tem um pouco",2
 "ge","GE","01","Indústrias Superpoderosas",2
@@ -116,6 +120,7 @@
 "generacast","Generacast","05","Desmitificando o Biohacking",2
 "generacast","Generacast","07","Genes, envelhecimento e imortalidade",2
 "la-do-bunker","Lá do Bunker","04","Temos que pegar eu sei",4
+"la-do-bunker","Lá do Bunker","10","Olimpíadas do Faustão Mortais",4
 "la-do-bunker","Lá do Bunker","01","Começando do começo",3
 "la-do-bunker","Lá do Bunker","02","A Revolta da Vacina",3
 "la-do-bunker","Lá do Bunker","03","Saudação à quinta série",3
@@ -124,6 +129,9 @@
 "la-do-bunker","Lá do Bunker","07","Depende, vamos ver",3
 "la-do-bunker","Lá do Bunker","08","Fofoca: gostoso demais",3
 "la-do-bunker","Lá do Bunker","09","O amor sufoca",3
+"la-do-bunker","Lá do Bunker","11","Saudade da minha ex",3
+"la-do-bunker","Lá do Bunker","12","Cenas dos próximos capítulos",3
+"la-do-bunker","Lá do Bunker","13","O trem do hype",3
 "nerdcash","NerdCash","09","Além da previdência",4
 "nerdcash","NerdCash","15","Objetivos e consciência financeira",4
 "nerdcash","NerdCash","16","A Crise de 1929",4
@@ -157,6 +165,7 @@
 "nerdcash","NerdCash","31","O que esperar de 2021?",2
 "nerdcash","NerdCash","32","GameStop: Ataque aos Titãs",2
 "nerdcash","NerdCash","39","As inevitáveis crises financeiras mundiais",2
+"nerdcash","NerdCash","40","Evergrande: Minha casa, minha crise",2
 "nerdcash","NerdCash","05","Dissecando as diferenças: Banco vs Corretora",1
 "nerdcash","NerdCash","34","As techs e a bolsa em 2021",1
 "nerdcash","NerdCash","35","Apocalipse econômico",1
@@ -419,6 +428,7 @@
 "nerdcast","NerdCast","786","Viúva Negra: Casos de família e passagem de bastão",4
 "nerdcast","NerdCast","787","Loki, Loki jacaré, Loki clássico, Loki arrependido, Loki apaixonado…",4
 "nerdcast","NerdCast","790","Egiptologia: Tutancamon, Napoleão e Durepox arqueológico",4
+"nerdcast","NerdCast","801","Pelados e apavorados",4
 "nerdcast","NerdCast","104","Lendas Urbanas ou qualquer coisa parecida",3
 "nerdcast","NerdCast","111","O Invencível Homem de Ferro… Velho",3
 "nerdcast","NerdCast","115","HULK ESMAGA NERDCAST!",3
@@ -461,8 +471,8 @@
 "nerdcast","NerdCast","198","Star Trek – A fronteira alternativa",3
 "nerdcast","NerdCast","202","Montanhas, roletas e revoluções russas",3
 "nerdcast","NerdCast","204","Clássicos da Sessão da Tarde – Aventuras",3
-"nerdcast","NerdCast","205","Teogonia da Mitologia Grega",3
 "nerdcast","NerdCast","205","Homens e Monstros da Mitologia Grega",3
+"nerdcast","NerdCast","205","Teogonia da Mitologia Grega",3
 "nerdcast","NerdCast","206","Vou chamar o síndico!",3
 "nerdcast","NerdCast","207","Bêbado e na Mão do Palhaço 2",3
 "nerdcast","NerdCast","210","LOST: 5 teorias antes do fim",3
@@ -716,6 +726,8 @@
 "nerdcast","NerdCast","794","Oh Canada! A vida lá no norte da América",3
 "nerdcast","NerdCast","795","O The Esquadrão Suicida: Pimenta no Starro dos outros é nam nam",3
 "nerdcast","NerdCast","796","A internet que amamos odiar",3
+"nerdcast","NerdCast","798","Perrengues da hora do almoço",3
+"nerdcast","NerdCast","799","What If…? E se a Marvel fosse ousada?",3
 "nerdcast","NerdCast","81","Nostalgia Animada – Parte 01",3
 "nerdcast","NerdCast","85","Nerdcast sem fio",3
 "nerdcast","NerdCast","90","Eu só trabalho aqui",3
@@ -867,6 +879,7 @@
 "nerdcast","NerdCast","780","Qual é a pauta? Dor nas pernas, Air Guitar e sopa de feijoada",2
 "nerdcast","NerdCast","789","O que é um Rockstar? Histórias de músicos, músicas e estrada",2
 "nerdcast","NerdCast","791","TENET: Entropia é cagar pra dentro!",2
+"nerdcast","NerdCast","797","Nós vemos a realidade como ela realmente é?",2
 "nerdcast","NerdCast","80","A Batalha do Apocalipse",2
 "nerdcast","NerdCast","83","Tropa de Elite – Pé na porta, tapa na cara!",2
 "nerdcast","NerdCast","86","EU Tenho a Força! – Entrevista com Garcia Júnior",2
@@ -979,6 +992,7 @@
 "nerdtech","NerdTech","63","Blockchain, NFT e a Criptomoeda do meme",3
 "nerdtech","NerdTech","64","O mundo precisa de Devs!",3
 "nerdtech","NerdTech","66","UX no Pop-Up dos outros é refresco",3
+"nerdtech","NerdTech","68","O browser comeu o meu sistema operacional?",3
 "nerdtech","NerdTech","01","Os buracos da tecnologia",2
 "nerdtech","NerdTech","03","Velocidade, performance e otimização",2
 "nerdtech","NerdTech","06","Ecossistema Mobile",2
@@ -996,6 +1010,7 @@
 "nerdtech","NerdTech","39","Inovação contra estagnação (Vingadores)",2
 "nerdtech","NerdTech","62","Impacto da crise nas empresas de tech",2
 "papo-de-parceiro","Papo de Parceiro","02","Amour pelo o que faz só ajuda a vender mais",3
+"papo-de-parceiro","Papo de Parceiro","03","Usando “soft skills” na arte das vendas",2
 "papo-de-parceiro","Papo de Parceiro","01","O pior que pode acontecer é você vender!",1
 "speak-english","Speak English","08","What song is this?",3
 "speak-english","Speak English","10","Analisando frases de filmes",3
@@ -1009,6 +1024,7 @@
 "speak-english","Speak English","38","Trabalhando com inovação",3
 "speak-english","Speak English","40","Aprendendo inglês (e sobre  abacaxi invertido) em São Francisco",3
 "speak-english","Speak English","43","Estados Unidos: estereótipos VS vida real",3
+"speak-english","Speak English","44","O Halloween da vida real",3
 "speak-english","Speak English","07","Experiências formais em inglês",2
 "speak-english","Speak English","11","Tradução, adaptação e localização",2
 "speak-english","Speak English","12","Nem todo inglês é igual",2
