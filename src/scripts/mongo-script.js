@@ -33,7 +33,7 @@ async function exportEpisodes() {
   })
 
   fs.writeFileSync(
-    './src/data/json/nerdcasts-sinc_2021-10-29.json',
+    './src/data/json/nerdcasts-sinc_2022-05-27.json',
     JSON.stringify(data)
   )
 
