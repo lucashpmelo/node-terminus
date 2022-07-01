@@ -61,6 +61,14 @@ async function convidadosPorEpisodio() {
   fs.writeFileSync('./src/data/csv/ConvidadosPorEpisodio.csv', csv)
 }
 
+async function duracaoPorEpisodio() {
+  const data = await nerdcastRepository.getDuracaoPorEpisodio()
+
+  const csv = jsonToCSV(data)
+
+  fs.writeFileSync('./src/data/csv/DuracaoPorEpisodio.csv', csv)
+}
+
 async function run() {
   await mongoConnect()
 
@@ -72,6 +80,7 @@ async function run() {
     quantidadeConvidadosPorPrograma(),
     totalEpisodiosPorAno(),
     convidadosPorEpisodio(),
+    duracaoPorEpisodio(),
   ])
 
   await mongoDisconnect()

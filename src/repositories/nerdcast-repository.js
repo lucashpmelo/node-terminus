@@ -219,3 +219,21 @@ exports.getConvidadosPorEpisodio = async () => {
 
   return res
 }
+
+exports.getDuracaoPorEpisodio = async () => {
+  const res = await Nerdcast.aggregate([
+    { $sort: { product: 1, id: 1 } },
+    {
+      $project: {
+        _id: false,
+        product: '$product',
+        episode: '$episode',
+        duration: '$duration',
+        'start-time': '$jump-to-time.start-time',
+        'end-time': '$jump-to-time.end-time',
+      },
+    },
+  ])
+
+  return res
+}

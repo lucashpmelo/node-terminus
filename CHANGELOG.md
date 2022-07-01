@@ -2,6 +2,10 @@
 
 ## [Não publicado]
 
+### Adicionado
+
+- Script de agrupamento de duração do episódio com valor inicial e final do _jump-to-time_
+
 ## [0.3.0] / 2021-10-29
 
 ### Adicionado
