@@ -66,7 +66,7 @@ async function duracaoPorEpisodio() {
 
   const csv = jsonToCSV(data)
 
-  fs.writeFileSync('./src/data/csv/DuracaoPorEpisodio.csv', csv)
+  fs.writeFileSync('./src/data/csv/DuracaoEmailPorEpisodio.csv', csv)
 }
 
 async function run() {

@@ -2,6 +2,10 @@
 
 ## [Não publicado]
 
+### Modificado
+
+- Script de agrupamento de duração da leitura de emails por episódio
+
 ## [0.4.0] / 2022-07-01
 
 ### Adicionado
