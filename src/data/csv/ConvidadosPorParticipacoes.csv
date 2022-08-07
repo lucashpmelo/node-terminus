@@ -1,34 +1,34 @@
 "idGuest","convidado","total"
-274,"Tucano",313
+274,"Tucano",315
 3515,"JP",182
 2595,"Eduardo Spohr",179
-1212122462,"Carlos Voltor",164
-1212122464,"Sr.K",130
+1212122462,"Carlos Voltor",166
+1212122464,"Sr.K",131
 3244,"Bluehand",113
 2002,"Portuguesa",87
-1212126189,"Flávio Augusto",82
-1212130385,"Paulo Silveira",77
+1212126189,"Flávio Augusto",83
+1212130385,"Paulo Silveira",78
 1212122862,"Atila",75
-1212123564,"Caio Gomes",68
-1212131200,"Maurício Linhares",65
+1212123564,"Caio Gomes",69
+1212131200,"Maurício Linhares",66
 1212124836,"Guga Mafra",62
 2003,"Sra. Jovem Nerd",60
+1212123226,"Rex",59
 1212122795,"Affonso Solano",58
-1212123226,"Rex",58
+1212139351,"Pri Ganiko",54
 3508,"Guga Ferrari",53
 1212127694,"Filipe Figueiredo",47
-1212139351,"Pri Ganiko",47
+1212141845,"Pedro Duarte",46
 1212123847,"André Souza",45
 1212126641,"Sandro Magaldi",45
-1212137936,"Marcelo Bassoli",42
-1212141845,"Pedro Duarte",42
+1212137936,"Marcelo Bassoli",44
+1212140265,"Katiucha Barcelos",38
 1212122669,"Leonel Caldela",36
 1212137166,"Roberta Arcoverde",36
-1212122799,"Fabio Yabu",34
-1212140265,"Katiucha Barcelos",34
-1212139590,"Pedro Paulo Silveira",34
+1212122799,"Fabio Yabu",35
+1212139590,"Pedro Paulo Silveira",35
 4877,"Marco Gomes",32
-1212122797,"Diogo Braga",29
+1212122797,"Diogo Braga",30
 309,"Nick Ellis",29
 1212122846,"Jonny Ken",28
 1212138688,"Rossana Modolin",28
@@ -36,14 +36,14 @@
 1212122465,"Afonso 3d",27
 3662,"Android",25
 1212122796,"Beto Estrada",25
+1212141859,"Gabriel Avila",25
+1212141954,"Camila Sousa",24
 1212141723,"Mary Joe",24
-1212141859,"Gabriel Avila",23
-1212141330,"Tayná Garcia",21
-1212141954,"Camila Sousa",20
+1212141330,"Tayná Garcia",22
 326,"Guilherme Briggs",17
 1212123573,"Amigo Imaginário",16
 1212138256,"Lierson Mattenhauer",16
-1212129496,"Ana Arantes",14
+1212129496,"Ana Arantes",15
 313,"Cris Dias",14
 1212122317,"Gaveta",14
 1212138478,"Leila",14
@@ -51,20 +51,21 @@
 1212122463,"Cardoso",12
 1212130386,"Sérgio Lopes",12
 1212122798,"Francine Gladulich",11
-1212141891,"Leandro Leite Soares",10
+1212141891,"Leandro Leite Soares",11
+1212141781,"Mario Souto",11
 1212130299,"Marina Val",10
-1212141781,"Mario Souto",10
 1212125942,"Pirula",10
 1212141282,"Ricardo di Lazzaro Filho",10
 1212138572,"Altay Souza",9
+1212141393,"LOAD",9
+1212142033,"Nicolas Borsoi",9
 1212141924,"Alan Dubox",8
 1212137796,"André Breves",8
 1212137030,"Carlinhos Troll",8
 1212123574,"Henrique Granado",8
 1212124762,"Izzy Nobre",8
 5034,"Jurandir Filho",8
-1212141393,"LOAD",8
-1212142033,"Nicolas Borsoi",8
+1212139440,"Patrícia Mafra",8
 1212141820,"Daniella Freixo de Faria",7
 1212126308,"David Preti",7
 1212123334,"Edney Souza",7
@@ -73,11 +74,11 @@
 1212123033,"Marcelo Forlani",7
 5035,"Maurício Saldanha",7
 1212140172,"Max Valarezo",7
-1212139440,"Patrícia Mafra",7
 1212123565,"Rafael Calsaverini",7
 1212124811,"Marcelinho",6
 1212130298,"Mau Faccio",6
 3325,"Carlos Merigo",5
+1212142131,"Carolina Andrade",5
 3448,"Dubox",5
 1212133869,"Guilherme Silveira",5
 1212122952,"Leo Lopes",5
@@ -88,7 +89,6 @@
 1212123579,"Bia Kunze",4
 1212123502,"Borbs",4
 1212126509,"Bruno Carvalho",4
-1212142131,"Carolina Andrade",4
 1212123529,"Cauê Moura",4
 1212126508,"Evandro de Freitas",4
 1212135105,"Fernando Reule",4
@@ -138,12 +138,14 @@
 1212130301,"Gustavo Caetano",2
 1212123618,"Gustavo Guanabara",2
 1212123651,"Hell",2
+1212142293,"Iana Villela",2
 1212139063,"João Ferreira",2
 1212139217,"Kelly Possebon",2
 1212127968,"Leon Martins",2
 1212133985,"Lucas ""Marduk"" Rampinelli",2
 1212139639,"Luquinhaz",2
 1212142331,"Marcel Campos",2
+1212141894,"Marcela Soares",2
 1212128722,"Marcos Pontes",2
 1212136384,"Mauricio Taborda",2
 1212133328,"Nathalia Arcuri",2
@@ -178,6 +180,7 @@
 1212141391,"André Fatala",1
 1212142065,"André Gomes",1
 1212142254,"Ane Vaz",1
+1212142850,"Angélica Kalil",1
 1212141512,"Antonio Sérgio Kimus Braz",1
 1212142245,"Ariana Rocha",1
 1212142230,"Barbara Pola Russell",1
@@ -199,6 +202,7 @@
 1212142478,"Carlos Lazar",1
 1212141446,"Carolina Moraes",1
 1212141683,"Caroline Souza",1
+1212142844,"Catarina Aydar",1
 1212142270,"Caíto Mainier",1
 1212140052,"Cesar Gaglioni",1
 1212141768,"Cibele Fabichak",1
@@ -258,8 +262,8 @@
 1212141598,"Gustavo Ferrarezi",1
 1212142349,"Gustavo Rebello",1
 1212141810,"Hendel Favarin",1
+1212142811,"Henrique Coronati",1
 1212140866,"Herbert Holdefer",1
-1212142293,"Iana Villela",1
 1212141404,"Iberê",1
 1212140769,"Igor Gosling",1
 1212140979,"Igor Santos",1
@@ -277,6 +281,7 @@
 1212141985,"Julia Gutnik",1
 1212139407,"Julia Mendonça",1
 1212141871,"Juliana Vieira",1
+1212142810,"Julio Trajano Rodrigues",1
 1212140266,"Juzão",1
 1212141682,"Kaká Furlan",1
 1212142071,"Kiko Reis",1
@@ -299,7 +304,6 @@
 1212126475,"Maestro Billy",1
 1212142281,"Maiko Arpino",1
 1212134456,"Malena",1
-1212141894,"Marcela Soares",1
 1212141846,"Marcelo Alves Mori",1
 1212142009,"Marcelo Fadul",1
 1212140352,"Marcelo Missioneiro",1
@@ -337,6 +341,7 @@
 1212142217,"Pedro Alvim",1
 1212142124,"Pedro Medeiros",1
 1212142602,"Pedro Pallotta",1
+1212142827,"Pedro Siqueira",1
 1212130831,"Pedro Sorrentino",1
 1212125498,"Pierre Schurmann",1
 1212123578,"Rafael Poggi",1
@@ -373,6 +378,7 @@
 1212142118,"Thedy Corrêa",1
 1212139553,"Thiago Bisewski",1
 1212139148,"Thiago Fini",1
+1212142845,"Thiago Gonçalves",1
 1212140706,"Thiago Nigro",1
 1212140192,"Tito Ferrara",1
 1212139352,"Toboco",1

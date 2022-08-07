@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose')
 const fs = require('fs')
-const { mongoConnect } = require('../db/mongoose-db')
+const { mongoConnect, mongoDisconnect } = require('../db/mongoose-db')
 const nerdcastList = require('../data/json/nerdcasts-sinc_2021-10-29.json')
 
 async function importEpisodes() {
@@ -33,7 +33,7 @@ async function exportEpisodes() {
   })
 
   fs.writeFileSync(
-    './src/data/json/nerdcasts-sinc_2022-07-01.json',
+    './src/data/json/nerdcasts-sinc_2022-08-07.json',
     JSON.stringify(data)
   )
 
@@ -46,7 +46,9 @@ async function run() {
   await mongoConnect()
 
   // const retorno = await importEpisodes()
-  // const retorno = await exportEpisodes()
+  const retorno = await exportEpisodes()
+
+  await mongoDisconnect()
 
   console.log('FIM')
 

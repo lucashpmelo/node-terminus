@@ -36,6 +36,10 @@
 "caneca-de-mamicas","Caneca de Mamicas","54","Mamãe Eu Quero Mamica",2
 "caneca-de-mamicas","Caneca de Mamicas","58","Antes só do que mal acompanhado",2
 "caneca-de-mamicas","Caneca de Mamicas","60","Curtindo o percurso",2
+"caneca-de-mamicas","Caneca de Mamicas","61","Fútil Útil",2
+"caneca-de-mamicas","Caneca de Mamicas","62","Um caminho possível",2
+"caneca-de-mamicas","Caneca de Mamicas","63","O Muro da Hipocrisia",2
+"caneca-de-mamicas","Caneca de Mamicas","65","Direitos não escritos são palavras ao vento",2
 "caneca-de-mamicas","Caneca de Mamicas","00","Ó a caneca de cuscuz no sábado da minha mamica aê!",1
 "caneca-de-mamicas","Caneca de Mamicas","01","Mãe Velha vs Mãe Nova",1
 "caneca-de-mamicas","Caneca de Mamicas","03","Diários da adolescência",1
@@ -142,11 +146,12 @@
 "empreendedor","Empreendedor","83","Por que empresas compram outras?",1
 "empreendedor","Empreendedor","86","Shop B: dos games ao conhecimento",1
 "empreendedor","Empreendedor","88","Reconhecendo e retendo novos talentos",1
+"empreendedor","Empreendedor","89","Fama e Negócios",1
 "extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato III: Por que lutamos",4
 "extra","Extra","Oferecido por BIS XTRA","Adestrando cachorro-quente com Tik-Tik para alienígenas: Nerdcast Descontrolado e sem pauta",4
 "extra","Extra","Oferecido por Valorant","Valorant: Spike Plantada",4
-"extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato I: Ciência e Magia",3
 "extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato II: Largados e Shippados",3
+"extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato I: Ciência e Magia",3
 "extra","Extra","Oferecido por Empréstimo SIM","Reforma, fio terra e a maldita goteira",3
 "extra","Extra","Oferecido por Avanade","O consultor, o chupa-cabra e o fantasma do Hi-Tech",2
 "extra","Extra","Oferecido por Fanta","CCXP: Bastidores, Perrengues e o Penetra",2
@@ -172,6 +177,7 @@
 "la-do-bunker","Lá do Bunker","22","Esse aqui é sem spoiler",4
 "la-do-bunker","Lá do Bunker","41","Não comento rumores",4
 "la-do-bunker","Lá do Bunker","45","Star Wars é apelão",4
+"la-do-bunker","Lá do Bunker","54","Atropelados pela cultura pop",4
 "la-do-bunker","Lá do Bunker","01","Começando do começo",3
 "la-do-bunker","Lá do Bunker","02","A Revolta da Vacina",3
 "la-do-bunker","Lá do Bunker","03","Saudação à quinta série",3
@@ -201,6 +207,9 @@
 "la-do-bunker","Lá do Bunker","37","Essencial Extra Plus",3
 "la-do-bunker","Lá do Bunker","42","Em busca do pão",3
 "la-do-bunker","Lá do Bunker","48","Esquentando A Casa do Dragão",3
+"la-do-bunker","Lá do Bunker","51","Torcedores calma",3
+"la-do-bunker","Lá do Bunker","52","Não gostei mas gostei",3
+"la-do-bunker","Lá do Bunker","53","Autocrítica e game over",3
 "la-do-bunker","Lá do Bunker","Oferecido por Fanta","Extra: CCXP Worlds 2021",3
 "la-do-bunker","Lá do Bunker","20","Câmera lenta é amor",2
 "la-do-bunker","Lá do Bunker","29","Não era sorvete, era feijão",2
@@ -211,6 +220,9 @@
 "la-do-bunker","Lá do Bunker","44","Os inimigos do hype",2
 "la-do-bunker","Lá do Bunker","47","Tudo parte do plano",2
 "la-do-bunker","Lá do Bunker","49","Cachorro não usa chupeta",2
+"la-do-bunker","Lá do Bunker","50","A vida real é terrível",2
+"la-do-bunker","Lá do Bunker","55","Karaokê no armageddon",2
+"la-do-bunker","Lá do Bunker","Oferecido por Amazon Prime Video","Extra: A Lista Terminal",2
 "la-do-bunker","Lá do Bunker","39","A empolgação da juventude",1
 "nerdcash","NerdCash","09","Além da previdência",4
 "nerdcash","NerdCash","15","Objetivos e consciência financeira",4
@@ -254,6 +266,7 @@
 "nerdcash","NerdCash","46","Elon Musk e o Twitter",2
 "nerdcash","NerdCash","47","A Crise das Incertezas",2
 "nerdcash","NerdCash","48","Investindo no Exterior",2
+"nerdcash","NerdCash","49","A Montanha-Russa dos Ciclos Econômicos",2
 "nerdcash","NerdCash","05","Dissecando as diferenças: Banco vs Corretora",1
 "nerdcash","NerdCash","34","As techs e a bolsa em 2021",1
 "nerdcash","NerdCash","35","Apocalipse econômico",1
@@ -535,6 +548,8 @@
 "nerdcast","NerdCast","830","Como nos mudamos para os Estados Unidos",4
 "nerdcast","NerdCast","831","X-men no MCU: A Equipe Perfeita",4
 "nerdcast","NerdCast","833","Especial Dia dos Namorados 2022",4
+"nerdcast","NerdCast","837","Qual é a pauta? Pé frio, anéis e reféns de pet",4
+"nerdcast","NerdCast","838","The Boys 3: Foi bom pra você?",4
 "nerdcast","NerdCast","104","Lendas Urbanas ou qualquer coisa parecida",3
 "nerdcast","NerdCast","111","O Invencível Homem de Ferro… Velho",3
 "nerdcast","NerdCast","115","HULK ESMAGA NERDCAST!",3
@@ -850,6 +865,8 @@
 "nerdcast","NerdCast","832","Bad Trips, Mortes e Poucos Robôtos 3",3
 "nerdcast","NerdCast","834","Stranger Things 4: Upside Down virou quintal",3
 "nerdcast","NerdCast","836","Obi-Wan Kenobi: Poderia ser “Ben” melhor",3
+"nerdcast","NerdCast","839","Thor: Amor, Trovão e Sofrência",3
+"nerdcast","NerdCast","841","Stranger Things 4 (parte 2): O Upside Hawkins",3
 "nerdcast","NerdCast","85","Nerdcast sem fio",3
 "nerdcast","NerdCast","90","Eu só trabalho aqui",3
 "nerdcast","NerdCast","92","Muito dinheiro no bolso, saúde pra dar e vender…",3
@@ -1005,6 +1022,7 @@
 "nerdcast","NerdCast","813","Trilhas sonoras de uma orquestra de um homem só",2
 "nerdcast","NerdCast","83","Tropa de Elite – Pé na porta, tapa na cara!",2
 "nerdcast","NerdCast","835","O Espaço Disputado!",2
+"nerdcast","NerdCast","840","James Webb: Explorando o infinito e além",2
 "nerdcast","NerdCast","86","EU Tenho a Força! – Entrevista com Garcia Júnior",2
 "nerdcast","NerdCast","88","Meu Mico Mico Meu",2
 "nerdcast","NerdCast","89","Nerdca$h",2
@@ -1125,6 +1143,7 @@
 "nerdtech","NerdTech","75","CEO´s Excêntricos",3
 "nerdtech","NerdTech","76","Lay-off de grandes startups: tirando o unicórnio da chuva",3
 "nerdtech","NerdTech","77","Games Monetizados",3
+"nerdtech","NerdTech","78","O Mercado pós-pandemia",3
 "nerdtech","NerdTech","01","Os buracos da tecnologia",2
 "nerdtech","NerdTech","03","Velocidade, performance e otimização",2
 "nerdtech","NerdTech","06","Ecossistema Mobile",2
@@ -1145,6 +1164,7 @@
 "papo-de-parceiro","Papo de Parceiro","08","Moda do comércio aos pés",3
 "papo-de-parceiro","Papo de Parceiro","10","Fazendo as compras no Super Market Place",3
 "papo-de-parceiro","Papo de Parceiro","11","Cuidando da pele e do seu e-commerce",3
+"papo-de-parceiro","Papo de Parceiro","12","Marcando gols no e-commerce esportivo",3
 "papo-de-parceiro","Papo de Parceiro","03","Usando “soft skills” na arte das vendas",2
 "papo-de-parceiro","Papo de Parceiro","04","A logística e a correria da Black Friday",2
 "papo-de-parceiro","Papo de Parceiro","05","Liquidação Fantástica: A tradição que vende muito",2

@@ -61,6 +61,12 @@
 "caneca-de-mamicas","58",6033,0,0
 "caneca-de-mamicas","59",4278,0,0
 "caneca-de-mamicas","60",4833,0,0
+"caneca-de-mamicas","61",4761,0,0
+"caneca-de-mamicas","62",6010,0,0
+"caneca-de-mamicas","63",4606,0,0
+"caneca-de-mamicas","64",3768,0,0
+"caneca-de-mamicas","65",4417,0,0
+"caneca-de-mamicas","66",3927,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -153,6 +159,7 @@
 "empreendedor","86",3440,0,0
 "empreendedor","87",2379,0,0
 "empreendedor","88",2708,0,0
+"empreendedor","89",1650,0,0
 "extra","Oferecido por Valorant",4713,0,0
 "extra","Oferecido por Participathivos",2571,0,0
 "extra","Oferecido por Spotify",3780,0,0
@@ -227,6 +234,13 @@
 "la-do-bunker","47",1942,0,0
 "la-do-bunker","48",2981,0,0
 "la-do-bunker","49",2130,0,0
+"la-do-bunker","50",2240,0,0
+"la-do-bunker","51",2997,0,0
+"la-do-bunker","52",2553,0,0
+"la-do-bunker","Oferecido por Amazon Prime Video",749,0,0
+"la-do-bunker","53",2487,0,0
+"la-do-bunker","54",4188,0,0
+"la-do-bunker","55",2591,0,0
 "nerdcash","01",3003,0,0
 "nerdcash","02",3628,0,0
 "nerdcash","03",2875,0,0
@@ -275,6 +289,7 @@
 "nerdcash","46",2359,0,0
 "nerdcash","47",2794,0,0
 "nerdcash","48",2837,0,0
+"nerdcash","49",2773,0,0
 "nerdcast","01",789,0,0
 "nerdcast","02",673,0,0
 "nerdcast","03",1274,0,0
@@ -1122,6 +1137,11 @@
 "nerdcast","834",7506,730,1526
 "nerdcast","835",7174,496,1727
 "nerdcast","836",9046,624,1890
+"nerdcast","837",6895,441,1950
+"nerdcast","838",6495,205,1078
+"nerdcast","839",5188,176,962
+"nerdcast","840",4971,396,1334
+"nerdcast","841",5719,351,932
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1200,6 +1220,7 @@
 "nerdtech","75",5353,0,0
 "nerdtech","76",2827,0,0
 "nerdtech","77",3608,0,0
+"nerdtech","78",2264,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1211,6 +1232,7 @@
 "papo-de-parceiro","09",2821,0,0
 "papo-de-parceiro","10",2156,0,0
 "papo-de-parceiro","11",3309,0,0
+"papo-de-parceiro","12",2844,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0
