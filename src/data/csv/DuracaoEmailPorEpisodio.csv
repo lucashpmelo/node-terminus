@@ -67,6 +67,21 @@
 "caneca-de-mamicas","64",3768,0,0
 "caneca-de-mamicas","65",4417,0,0
 "caneca-de-mamicas","66",3927,0,0
+"caneca-de-mamicas","67",5323,0,0
+"caneca-de-mamicas","68",3760,0,0
+"caneca-de-mamicas","69",4679,0,0
+"caneca-de-mamicas","70",4946,0,0
+"caneca-de-mamicas","71",5378,0,0
+"caneca-de-mamicas","72",5305,0,0
+"caneca-de-mamicas","73",4725,0,0
+"caneca-de-mamicas","74",4589,0,0
+"caneca-de-mamicas","75",7218,0,0
+"caneca-de-mamicas","76",4715,0,0
+"caneca-de-mamicas","77",4222,0,0
+"caneca-de-mamicas","78",3831,0,0
+"caneca-de-mamicas","79",5400,0,0
+"caneca-de-mamicas","80",5314,0,0
+"caneca-de-mamicas","81",5354,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -160,6 +175,8 @@
 "empreendedor","87",2379,0,0
 "empreendedor","88",2708,0,0
 "empreendedor","89",1650,0,0
+"empreendedor","90",2950,0,0
+"empreendedor","91",2452,0,0
 "extra","Oferecido por Valorant",4713,0,0
 "extra","Oferecido por Participathivos",2571,0,0
 "extra","Oferecido por Spotify",3780,0,0
@@ -170,6 +187,9 @@
 "extra","Oferecido por Arcane: League of Legends",4134,0,0
 "extra","Oferecido por Fanta",4305,0,0
 "extra","Oferecido por Empréstimo SIM",5938,0,0
+"extra","Oferecido por Zapsign",3526,0,0
+"extra","Oferecido por Instituto Mauá de Tecnologia",2295,0,0
+"extra","Oferecido por Magic: The Gathering",3035,0,0
 "ge","01",2566,0,0
 "generacast","01",5480,0,0
 "generacast","02",4459,0,0
@@ -181,6 +201,8 @@
 "generacast","08",3188,0,0
 "generacast","09",3167,0,0
 "generacast","10",2421,0,0
+"generacast","11",3129,0,0
+"generacast","12",2448,0,0
 "halocast","1",1081,0,0
 "halocast","2",1001,0,0
 "halocast","3",775,0,0
@@ -241,6 +263,22 @@
 "la-do-bunker","53",2487,0,0
 "la-do-bunker","54",4188,0,0
 "la-do-bunker","55",2591,0,0
+"la-do-bunker","56",2946,0,0
+"la-do-bunker","57",2445,0,0
+"la-do-bunker","58",2815,0,0
+"la-do-bunker","59",2558,0,0
+"la-do-bunker","60",2700,0,0
+"la-do-bunker","61",2546,0,0
+"la-do-bunker","62",2452,0,0
+"la-do-bunker","63",2561,0,0
+"la-do-bunker","64",3141,0,0
+"la-do-bunker","65",2800,0,0
+"la-do-bunker","66",3378,0,0
+"la-do-bunker","67",3844,0,0
+"la-do-bunker","68",4282,0,0
+"la-do-bunker","69",2870,0,0
+"la-do-bunker","70",3285,0,0
+"la-do-bunker","71",2842,0,0
 "nerdcash","01",3003,0,0
 "nerdcash","02",3628,0,0
 "nerdcash","03",2875,0,0
@@ -1142,6 +1180,21 @@
 "nerdcast","839",5188,176,962
 "nerdcast","840",4971,396,1334
 "nerdcast","841",5719,351,932
+"nerdcast","842",4819,478,1523
+"nerdcast","843",8653,603,1812
+"nerdcast","844",7189,920,2269
+"nerdcast","845",6380,318,937
+"nerdcast","846",6454,280,1294
+"nerdcast","847",3912,0,0
+"nerdcast","848",5566,342,1152
+"nerdcast","849",6251,237,1070
+"nerdcast","850",9086,0,0
+"nerdcast","851",5076,0,0
+"nerdcast","852",8467,418,1074
+"nerdcast","853",9112,450,1297
+"nerdcast","854",6244,485,1287
+"nerdcast","855",6147,226,1055
+"nerdcast","856",6130,500,967
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1221,6 +1274,9 @@
 "nerdtech","76",2827,0,0
 "nerdtech","77",3608,0,0
 "nerdtech","78",2264,0,0
+"nerdtech","79",3156,0,0
+"nerdtech","80",3287,0,0
+"nerdtech","81",3023,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1233,6 +1289,10 @@
 "papo-de-parceiro","10",2156,0,0
 "papo-de-parceiro","11",3309,0,0
 "papo-de-parceiro","12",2844,0,0
+"papo-de-parceiro","13",3133,0,0
+"papo-de-parceiro","14",2108,0,0
+"papo-de-parceiro","15",2159,0,0
+"papo-de-parceiro","16",2353,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0
@@ -1283,3 +1343,8 @@
 "speak-english","48",3154,0,0
 "speak-english","49",4232,0,0
 "speak-english","50",4480,0,0
+"vaitecatar","01",4452,0,0
+"vaitecatar","02",3556,0,0
+"vaitecatar","03",1610,0,0
+"vaitecatar","04",1827,0,0
+"vaitecatar","05",2077,0,0

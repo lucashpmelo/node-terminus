@@ -1,6 +1,6 @@
 "product","categoria","ano","total"
 "caneca-de-mamicas","Caneca de Mamicas",2021,35
-"caneca-de-mamicas","Caneca de Mamicas",2022,33
+"caneca-de-mamicas","Caneca de Mamicas",2022,48
 "empreendedor","Empreendedor",2010,1
 "empreendedor","Empreendedor",2011,1
 "empreendedor","Empreendedor",2012,1
@@ -12,16 +12,16 @@
 "empreendedor","Empreendedor",2019,12
 "empreendedor","Empreendedor",2020,11
 "empreendedor","Empreendedor",2021,12
-"empreendedor","Empreendedor",2022,6
+"empreendedor","Empreendedor",2022,8
 "extra","Extra",2021,9
-"extra","Extra",2022,1
+"extra","Extra",2022,4
 "ge","GE",2017,1
 "generacast","Generacast",2020,3
 "generacast","Generacast",2021,4
-"generacast","Generacast",2022,3
+"generacast","Generacast",2022,5
 "halocast","HaloCast",2015,3
 "la-do-bunker","Lá do Bunker",2021,24
-"la-do-bunker","Lá do Bunker",2022,33
+"la-do-bunker","Lá do Bunker",2022,49
 "nerdcash","NerdCash",2018,6
 "nerdcash","NerdCash",2019,12
 "nerdcash","NerdCash",2020,12
@@ -43,7 +43,7 @@
 "nerdcast","NerdCast",2019,53
 "nerdcast","NerdCast",2020,51
 "nerdcast","NerdCast",2021,53
-"nerdcast","NerdCast",2022,31
+"nerdcast","NerdCast",2022,46
 "nerdlab","NerdLab",2018,1
 "nerdtech","NerdTech",2016,10
 "nerdtech","NerdTech",2017,12
@@ -51,11 +51,12 @@
 "nerdtech","NerdTech",2019,12
 "nerdtech","NerdTech",2020,12
 "nerdtech","NerdTech",2021,12
-"nerdtech","NerdTech",2022,8
+"nerdtech","NerdTech",2022,11
 "papo-de-parceiro","Papo de Parceiro",2021,5
-"papo-de-parceiro","Papo de Parceiro",2022,7
+"papo-de-parceiro","Papo de Parceiro",2022,11
 "speak-english","Speak English",2018,11
 "speak-english","Speak English",2019,11
 "speak-english","Speak English",2020,12
 "speak-english","Speak English",2021,12
 "speak-english","Speak English",2022,4
+"vaitecatar","Vai te Catar",2022,5
