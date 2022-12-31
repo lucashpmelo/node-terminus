@@ -14,6 +14,7 @@
 "caneca-de-mamicas","Caneca de Mamicas","67","O Lado zen da vida",3
 "caneca-de-mamicas","Caneca de Mamicas","75","Quem procura cura",3
 "caneca-de-mamicas","Caneca de Mamicas","81","Mexeu Com Uma, Mexeu Com Todas",3
+"caneca-de-mamicas","Caneca de Mamicas","82","Legalize Jah",3
 "caneca-de-mamicas","Caneca de Mamicas","Oferecido por Empréstimo SIM","De picote em picote se chega ao Japão",3
 "caneca-de-mamicas","Caneca de Mamicas","07","Sidney Magal (en)canta Mamicas",2
 "caneca-de-mamicas","Caneca de Mamicas","08","Vamos! Comigo! Que tá Magalvilhoso!",2
@@ -69,6 +70,10 @@
 "caneca-de-mamicas","Caneca de Mamicas","71","Cortando o cordão umbilical",1
 "caneca-de-mamicas","Caneca de Mamicas","73","Cheias de manias",1
 "caneca-de-mamicas","Caneca de Mamicas","78","Tabu é pra jacu",1
+"caneca-de-mamicas","Caneca de Mamicas","83","Alô delícia! Me chama que eu vou!",1
+"caneca-de-mamicas","Caneca de Mamicas","84","É chique ser divertido",1
+"caneca-de-mamicas","Caneca de Mamicas","85","Quem avisa sonho é",1
+"caneca-de-mamicas","Caneca de Mamicas","86","Crush de Natal",1
 "empreendedor","Empreendedor","13","Empreendedorismo Digital",3
 "empreendedor","Empreendedor","14","Empreendendo entre gigantes",3
 "empreendedor","Empreendedor","15","Investidores do Vale do Silício",3
@@ -167,8 +172,8 @@
 "extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato III: Por que lutamos",4
 "extra","Extra","Oferecido por BIS XTRA","Adestrando cachorro-quente com Tik-Tik para alienígenas: Nerdcast Descontrolado e sem pauta",4
 "extra","Extra","Oferecido por Valorant","Valorant: Spike Plantada",4
-"extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato I: Ciência e Magia",3
 "extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato II: Largados e Shippados",3
+"extra","Extra","Oferecido por Arcane: League of Legends","Arcane – Ato I: Ciência e Magia",3
 "extra","Extra","Oferecido por Empréstimo SIM","Reforma, fio terra e a maldita goteira",3
 "extra","Extra","Oferecido por Avanade","O consultor, o chupa-cabra e o fantasma do Hi-Tech",2
 "extra","Extra","Oferecido por Fanta","CCXP: Bastidores, Perrengues e o Penetra",2
@@ -192,6 +197,7 @@
 "generacast","Generacast","12","Genes atléticos",2
 "la-do-bunker","Lá do Bunker","23","É pro meu TCC",6
 "la-do-bunker","Lá do Bunker","24","O início de um sonho",6
+"la-do-bunker","Lá do Bunker","76","Destaques e desdestaques",6
 "la-do-bunker","Lá do Bunker","04","Temos que pegar eu sei",4
 "la-do-bunker","Lá do Bunker","10","Olimpíadas do Faustão Mortais",4
 "la-do-bunker","Lá do Bunker","17","Não é defeito, é efeito",4
@@ -245,6 +251,8 @@
 "la-do-bunker","Lá do Bunker","68","Charme da bagunça",3
 "la-do-bunker","Lá do Bunker","69","El bruxeiro mexicano",3
 "la-do-bunker","Lá do Bunker","71","Boleira arrependida",3
+"la-do-bunker","Lá do Bunker","72","Rebelde da Rebeldia",3
+"la-do-bunker","Lá do Bunker","74","Cofrinho gamer",3
 "la-do-bunker","Lá do Bunker","Oferecido por Fanta","Extra: CCXP Worlds 2021",3
 "la-do-bunker","Lá do Bunker","20","Câmera lenta é amor",2
 "la-do-bunker","Lá do Bunker","29","Não era sorvete, era feijão",2
@@ -260,6 +268,8 @@
 "la-do-bunker","Lá do Bunker","58","Testemunho da empolgação",2
 "la-do-bunker","Lá do Bunker","60","Taca-le pau no medieval",2
 "la-do-bunker","Lá do Bunker","61","Paquera espacial",2
+"la-do-bunker","Lá do Bunker","73","Velozes e Furiosas",2
+"la-do-bunker","Lá do Bunker","75","Herói hablando",2
 "la-do-bunker","Lá do Bunker","Oferecido por Amazon Prime Video","Extra: A Lista Terminal",2
 "la-do-bunker","Lá do Bunker","39","A empolgação da juventude",1
 "nerdcash","NerdCash","09","Além da previdência",4
@@ -318,6 +328,8 @@
 "nerdcast","NerdCast","322","The Bat, the Cat and the Bane",6
 "nerdcast","NerdCast","391","Ela dança, eu danço. Ou não…",6
 "nerdcast","NerdCast","396","Babycast",6
+"nerdcast","NerdCast","857","Qual é a pauta? Notas de uva, TV Pow e o golpe do Mau!",6
+"nerdcast","NerdCast","862","RPG Ghanor 4: O Bardo, o Santo e o Bico de Tamanco",6
 "nerdcast","NerdCast","197","O sobrenatural ecziste! Ou não!",5
 "nerdcast","NerdCast","249","Evolução artificial da Seleção Natural",5
 "nerdcast","NerdCast","311","Decifrando Donnie Darko. Ou não.",5
@@ -386,7 +398,7 @@
 "nerdcast","NerdCast","235b","Battlestar Galactica – Deus ex Machina",4
 "nerdcast","NerdCast","237","A arte da guerra… da sedução",4
 "nerdcast","NerdCast","245","Tokusatsu e não abro!",4
-"nerdcast","NerdCast","251","Especial RPG – O Bruxo, a Princesa e o Dragão",4
+"nerdcast","NerdCast","251","RPG Ghanor 1: O Bruxo, a Princesa e o Dragão",4
 "nerdcast","NerdCast","253","Sem dor não tem prazer",4
 "nerdcast","NerdCast","254","Isso é uma vergonha!",4
 "nerdcast","NerdCast","257","O Dia D",4
@@ -406,7 +418,7 @@
 "nerdcast","NerdCast","287","Grandes inventores: Santos Dumont vs irmãos Wright",4
 "nerdcast","NerdCast","288","Papo de gordo",4
 "nerdcast","NerdCast","290","Sessão aventura da vida real",4
-"nerdcast","NerdCast","291","Especial RPG – O Duque, a Rosa e o Beholder",4
+"nerdcast","NerdCast","291","RPG Ghanor 2: O Duque, a Rosa e o Beholder",4
 "nerdcast","NerdCast","292","Mas que mancada!",4
 "nerdcast","NerdCast","293","Tintim, o macaco e o herege",4
 "nerdcast","NerdCast","299","A sombria ascensão de Hitler",4
@@ -425,7 +437,7 @@
 "nerdcast","NerdCast","334","Remakes relembrados",4
 "nerdcast","NerdCast","336","A revolução americana",4
 "nerdcast","NerdCast","339","Distúrbios mentais",4
-"nerdcast","NerdCast","341","Especial RPG – O Corvo, a Periguete e o Bucentauro",4
+"nerdcast","NerdCast","341","RPG Ghanor 3: O Corvo, a Periguete e o Bucentauro",4
 "nerdcast","NerdCast","343","O Hobbit: Uma jornada esperada",4
 "nerdcast","NerdCast","344","O mundo de Walt Disney",4
 "nerdcast","NerdCast","346","Hackers, Crackers e Dieckmans",4
@@ -592,6 +604,7 @@
 "nerdcast","NerdCast","844","O poder de Roma",4
 "nerdcast","NerdCast","846","Qual é a pauta? Beijo de idosa, roedores de unhas e only fans",4
 "nerdcast","NerdCast","849","A ascensão do fascismo",4
+"nerdcast","NerdCast","861","Avatar 2: O caminho da água passa pelo tapete da implicância",4
 "nerdcast","NerdCast","104","Lendas Urbanas ou qualquer coisa parecida",3
 "nerdcast","NerdCast","111","O Invencível Homem de Ferro… Velho",3
 "nerdcast","NerdCast","115","HULK ESMAGA NERDCAST!",3
@@ -634,8 +647,8 @@
 "nerdcast","NerdCast","198","Star Trek – A fronteira alternativa",3
 "nerdcast","NerdCast","202","Montanhas, roletas e revoluções russas",3
 "nerdcast","NerdCast","204","Clássicos da Sessão da Tarde – Aventuras",3
-"nerdcast","NerdCast","205","Homens e Monstros da Mitologia Grega",3
 "nerdcast","NerdCast","205","Teogonia da Mitologia Grega",3
+"nerdcast","NerdCast","205","Homens e Monstros da Mitologia Grega",3
 "nerdcast","NerdCast","206","Vou chamar o síndico!",3
 "nerdcast","NerdCast","207","Bêbado e na Mão do Palhaço 2",3
 "nerdcast","NerdCast","210","LOST: 5 teorias antes do fim",3
@@ -917,6 +930,9 @@
 "nerdcast","NerdCast","854","Mulher-Hulk: Destruindo carros e a quarta parede",3
 "nerdcast","NerdCast","855","Adão Negro: Mudando a hierarquia da breguice",3
 "nerdcast","NerdCast","856","Wakanda Forever: Sin amor, sin perdón",3
+"nerdcast","NerdCast","858","Star Wars: Andor – Enfrentem o Império!",3
+"nerdcast","NerdCast","859","As origens da humanidade",3
+"nerdcast","NerdCast","860","Política Internacional 2022",3
 "nerdcast","NerdCast","90","Eu só trabalho aqui",3
 "nerdcast","NerdCast","92","Muito dinheiro no bolso, saúde pra dar e vender…",3
 "nerdcast","NerdCast","94","Max, Traga Minha Capa! – Entrevista com Guilherme Briggs",3
@@ -1215,6 +1231,7 @@
 "nerdtech","NerdTech","36","Tecnologias das Guerras",2
 "nerdtech","NerdTech","39","Inovação contra estagnação (Vingadores)",2
 "nerdtech","NerdTech","62","Impacto da crise nas empresas de tech",2
+"nerdtech","NerdTech","82","Desbravando o Vale do Silício, big techs e a carteira",2
 "papo-de-parceiro","Papo de Parceiro","02","Amour pelo o que faz só ajuda a vender mais",3
 "papo-de-parceiro","Papo de Parceiro","08","Moda do comércio aos pés",3
 "papo-de-parceiro","Papo de Parceiro","10","Fazendo as compras no Super Market Place",3
@@ -1230,6 +1247,7 @@
 "papo-de-parceiro","Papo de Parceiro","14","Magalu Coletas, entrega ultra rápida e fulfillment",2
 "papo-de-parceiro","Papo de Parceiro","15","Nadando no oceano vermelho do mercado de jogos",2
 "papo-de-parceiro","Papo de Parceiro","16","Fornecedores fantásticos e onde achá-los",2
+"papo-de-parceiro","Papo de Parceiro","17","Planejando um Janeiro de vendas fantásticas",2
 "papo-de-parceiro","Papo de Parceiro","01","O pior que pode acontecer é você vender!",1
 "speak-english","Speak English","08","What song is this?",3
 "speak-english","Speak English","10","Analisando frases de filmes",3
@@ -1281,8 +1299,32 @@
 "speak-english","Speak English","41","Luz, câmera e… inglês!",1
 "speak-english","Speak English","45","Frases Marcantes de Filmes e Séries em 2021",1
 "speak-english","Speak English","46","Inglês traduzido ao pé da letra",1
+"vaitecatar","Vai te Catar","29","Já estamos com saudades, foi bom demais!",4
 "vaitecatar","Vai te Catar","02","Uma abertura humilde",3
+"vaitecatar","Vai te Catar","10","O Daniel Alves foi pra passear?",3
+"vaitecatar","Vai te Catar","19","Expectativas para as quartas de final",3
 "vaitecatar","Vai te Catar","01","Você acredita no hexa?",2
 "vaitecatar","Vai te Catar","03","Inglaterra passou o trator",2
 "vaitecatar","Vai te Catar","04","Zebrita argentina",2
 "vaitecatar","Vai te Catar","05","Virada dos Super Campeões!",2
+"vaitecatar","Vai te Catar","06","Pombo minha vida, Pombo meu amor!",2
+"vaitecatar","Vai te Catar","07","Perigo de Daniel Alves",2
+"vaitecatar","Vai te Catar","08","Argentina sobrevive",2
+"vaitecatar","Vai te Catar","09","Famigerada geração Belga",2
+"vaitecatar","Vai te Catar","11","Já passamos da metade!",2
+"vaitecatar","Vai te Catar","12","Polônia e sua atuação vergonhosa!",2
+"vaitecatar","Vai te Catar","13","Adeus Alemanha!",2
+"vaitecatar","Vai te Catar","14","Alergia a Camarões!",2
+"vaitecatar","Vai te Catar","15","O Messi é brabo!",2
+"vaitecatar","Vai te Catar","16","Como parar Kylian Mbappé?",2
+"vaitecatar","Vai te Catar","17","Finalmente a seleção estreou na Copa!",2
+"vaitecatar","Vai te Catar","18","Errando e acertando com Golaço Ramos!",2
+"vaitecatar","Vai te Catar","20","Para se decepcionar, basta estar vivo",2
+"vaitecatar","Vai te Catar","21","Meu Marrocos é gigante!",2
+"vaitecatar","Vai te Catar","22","Qual será o novo técnico da seleção?",2
+"vaitecatar","Vai te Catar","23","A Copa para mas a gente não!",2
+"vaitecatar","Vai te Catar","24","O Messi é bom demais!",2
+"vaitecatar","Vai te Catar","25","Final, finalmente definida!",2
+"vaitecatar","Vai te Catar","26","Esquenta para a final!",2
+"vaitecatar","Vai te Catar","27","Uma disputa acirrada pelo 4º lugar",2
+"vaitecatar","Vai te Catar","28","Uma final pra torcer contra!",2
