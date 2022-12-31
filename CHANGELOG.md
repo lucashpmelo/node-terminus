@@ -2,9 +2,12 @@
 
 ## [Não publicado]
 
+## [0.5.0] / 2022-12-31
+
 ### Modificado
 
 - Script de agrupamento de duração da leitura de emails por episódio
+- Atualizado dados dos episódios
 
 ## [0.4.0] / 2022-07-01
 
@@ -58,7 +61,8 @@
 - Script de agrupamento de convidados por categoria
 - Script de agrupamento de convidados por tema
 
-[não publicado]: https://github.com/lucashpmelo/node-terminus/compare/0.4.0...HEAD
+[não publicado]: https://github.com/lucashpmelo/node-terminus/compare/0.5.0...HEAD
+[0.5.0]: https://github.com/lucashpmelo/node-terminus/compare/0.4.0...0.5.0
 [0.4.0]: https://github.com/lucashpmelo/node-terminus/compare/0.3.0...0.4.0
 [0.3.0]: https://github.com/lucashpmelo/node-terminus/compare/0.2.0...0.3.0
 [0.2.0]: https://github.com/lucashpmelo/node-terminus/compare/0.1.0...0.2.0
