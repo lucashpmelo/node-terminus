@@ -1,6 +1,13 @@
 "product","categoria","ano","total"
+"","",2010,2
+"","",2011,2
+"","",2012,5
+"","",2013,4
+"","",2014,1
+"","",2015,3
 "caneca-de-mamicas","Caneca de Mamicas",2021,35
-"caneca-de-mamicas","Caneca de Mamicas",2022,53
+"caneca-de-mamicas","Caneca de Mamicas",2022,54
+"caneca-de-mamicas","Caneca de Mamicas",2023,18
 "empreendedor","Empreendedor",2010,1
 "empreendedor","Empreendedor",2011,1
 "empreendedor","Empreendedor",2012,1
@@ -13,15 +20,21 @@
 "empreendedor","Empreendedor",2020,11
 "empreendedor","Empreendedor",2021,12
 "empreendedor","Empreendedor",2022,8
+"empreendedor","Empreendedor",2023,1
 "extra","Extra",2021,9
 "extra","Extra",2022,4
+"extra","Extra",2023,1
 "ge","GE",2017,1
 "generacast","Generacast",2020,3
 "generacast","Generacast",2021,4
 "generacast","Generacast",2022,5
+"generacast","Generacast",2023,1
 "halocast","HaloCast",2015,3
 "la-do-bunker","Lá do Bunker",2021,24
 "la-do-bunker","Lá do Bunker",2022,54
+"la-do-bunker","Lá do Bunker",2023,26
+"mau-acompanhado","Mau Acompanhado",2023,47
+"mau-acompanhado-nerdcast","Mau Acompanhado",2023,2
 "nerdcash","NerdCash",2018,6
 "nerdcash","NerdCash",2019,12
 "nerdcash","NerdCash",2020,12
@@ -44,6 +57,7 @@
 "nerdcast","NerdCast",2020,51
 "nerdcast","NerdCast",2021,53
 "nerdcast","NerdCast",2022,52
+"nerdcast","NerdCast",2023,18
 "nerdlab","NerdLab",2018,1
 "nerdtech","NerdTech",2016,10
 "nerdtech","NerdTech",2017,12
@@ -52,8 +66,10 @@
 "nerdtech","NerdTech",2020,12
 "nerdtech","NerdTech",2021,12
 "nerdtech","NerdTech",2022,12
+"nerdtech","NerdTech",2023,5
 "papo-de-parceiro","Papo de Parceiro",2021,5
 "papo-de-parceiro","Papo de Parceiro",2022,12
+"papo-de-parceiro","Papo de Parceiro",2023,4
 "speak-english","Speak English",2018,11
 "speak-english","Speak English",2019,11
 "speak-english","Speak English",2020,12

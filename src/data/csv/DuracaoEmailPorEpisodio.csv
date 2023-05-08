@@ -1,4 +1,21 @@
 "product","episode","duration","start-time","end-time"
+"","Anteriormente... no Nerdcast Especial de RPG",131,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
+"",,0,0,0
 "caneca-de-mamicas","00",1470,0,0
 "caneca-de-mamicas","01",4120,0,0
 "caneca-de-mamicas","02",3286,0,0
@@ -87,6 +104,25 @@
 "caneca-de-mamicas","84",4553,0,0
 "caneca-de-mamicas","85",4885,0,0
 "caneca-de-mamicas","86",6599,0,0
+"caneca-de-mamicas","87",3531,0,0
+"caneca-de-mamicas","88",7937,0,0
+"caneca-de-mamicas","89",4649,0,0
+"caneca-de-mamicas","90",5444,0,0
+"caneca-de-mamicas","91",4217,0,0
+"caneca-de-mamicas","92",5131,0,0
+"caneca-de-mamicas","93",3788,0,0
+"caneca-de-mamicas","94",4809,0,0
+"caneca-de-mamicas","95",6083,0,0
+"caneca-de-mamicas","96",6424,0,0
+"caneca-de-mamicas","97",5737,0,0
+"caneca-de-mamicas","98",6119,0,0
+"caneca-de-mamicas","99",3756,0,0
+"caneca-de-mamicas","100",7606,0,0
+"caneca-de-mamicas","101",4697,0,0
+"caneca-de-mamicas","102",8738,0,0
+"caneca-de-mamicas","103",5433,0,0
+"caneca-de-mamicas","104",5281,0,0
+"caneca-de-mamicas","105 ",5944,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -182,6 +218,7 @@
 "empreendedor","89",1650,0,0
 "empreendedor","90",2950,0,0
 "empreendedor","91",2452,0,0
+"empreendedor","92",3074,0,0
 "extra","Oferecido por Valorant",4713,0,0
 "extra","Oferecido por Participathivos",2571,0,0
 "extra","Oferecido por Spotify",3780,0,0
@@ -195,6 +232,7 @@
 "extra","Oferecido por Zapsign",3526,0,0
 "extra","Oferecido por Instituto Mauá de Tecnologia",2295,0,0
 "extra","Oferecido por Magic: The Gathering",3035,0,0
+"extra","Oferecido por XP EDUCAÇÃO",3344,0,0
 "ge","01",2566,0,0
 "generacast","01",5480,0,0
 "generacast","02",4459,0,0
@@ -208,6 +246,7 @@
 "generacast","10",2421,0,0
 "generacast","11",3129,0,0
 "generacast","12",2448,0,0
+"generacast","13",3180,0,0
 "halocast","1",1081,0,0
 "halocast","2",1001,0,0
 "halocast","3",775,0,0
@@ -289,6 +328,81 @@
 "la-do-bunker","74",2281,0,0
 "la-do-bunker","75",2233,0,0
 "la-do-bunker","76",2965,0,0
+"la-do-bunker","77",2991,0,0
+"la-do-bunker","78",2354,0,0
+"la-do-bunker","79",1886,0,0
+"la-do-bunker"," Extra",3614,0,0
+"la-do-bunker","80",2983,0,0
+"la-do-bunker","81",2085,0,0
+"la-do-bunker","Oscar 01",3205,0,0
+"la-do-bunker","82",3291,0,0
+"la-do-bunker","Oscar 02",2476,0,0
+"la-do-bunker","83",2379,0,0
+"la-do-bunker","Oscar 03",3640,0,0
+"la-do-bunker","Oscar 04",4566,0,0
+"la-do-bunker","84",3344,0,0
+"la-do-bunker","85",2100,0,0
+"la-do-bunker","Oscar 05",2724,0,0
+"la-do-bunker","86",2377,0,0
+"la-do-bunker","Oscar 06",3330,0,0
+"la-do-bunker","87",2096,0,0
+"la-do-bunker","88",2861,0,0
+"la-do-bunker","89",3520,0,0
+"la-do-bunker","90",3601,0,0
+"la-do-bunker","91",3368,0,0
+"la-do-bunker","92",2440,0,0
+"la-do-bunker","93",2293,0,0
+"la-do-bunker","94",2737,0,0
+"la-do-bunker","95",2534,0,0
+"mau-acompanhado","02",2189,0,0
+"mau-acompanhado","03",2408,0,0
+"mau-acompanhado","04",1874,0,0
+"mau-acompanhado","05",2829,0,0
+"mau-acompanhado","06",2482,0,0
+"mau-acompanhado","07",2240,0,0
+"mau-acompanhado","08",2876,0,0
+"mau-acompanhado","09",2206,0,0
+"mau-acompanhado","10",2483,0,0
+"mau-acompanhado","11",3334,0,0
+"mau-acompanhado","12",2502,0,0
+"mau-acompanhado","14",3545,0,0
+"mau-acompanhado","13",3088,0,0
+"mau-acompanhado","15",3545,0,0
+"mau-acompanhado","16",2743,0,0
+"mau-acompanhado","17",3045,0,0
+"mau-acompanhado","18",2639,0,0
+"mau-acompanhado","19",10,0,0
+"mau-acompanhado","20",3164,0,0
+"mau-acompanhado","22",3951,0,0
+"mau-acompanhado","23",2898,0,0
+"mau-acompanhado","24",10,0,0
+"mau-acompanhado","25",4075,0,0
+"mau-acompanhado","26",3705,0,0
+"mau-acompanhado","27",4545,0,0
+"mau-acompanhado","28",3407,0,0
+"mau-acompanhado","29",3937,0,0
+"mau-acompanhado","30",2271,0,0
+"mau-acompanhado","31",2932,0,0
+"mau-acompanhado","32",2848,0,0
+"mau-acompanhado","33",3049,0,0
+"mau-acompanhado","34",3495,0,0
+"mau-acompanhado","35",3169,0,0
+"mau-acompanhado","36",2933,0,0
+"mau-acompanhado","37",2982,0,0
+"mau-acompanhado","38",2980,0,0
+"mau-acompanhado","39",3288,0,0
+"mau-acompanhado","40",3229,0,0
+"mau-acompanhado","41",3271,0,0
+"mau-acompanhado","42",3516,0,0
+"mau-acompanhado","43",4577,0,0
+"mau-acompanhado","44",3617,0,0
+"mau-acompanhado","45",2694,0,0
+"mau-acompanhado","46",3168,0,0
+"mau-acompanhado","47",3219,0,0
+"mau-acompanhado","48",3946,0,0
+"mau-acompanhado","49",4507,0,0
+"mau-acompanhado-nerdcast","01",3354,0,0
+"mau-acompanhado-nerdcast","21",3375,0,0
 "nerdcash","01",3003,0,0
 "nerdcash","02",3628,0,0
 "nerdcash","03",2875,0,0
@@ -1211,6 +1325,24 @@
 "nerdcast","860",8659,0,0
 "nerdcast","861",6874,325,671
 "nerdcast","862",15210,0,0
+"nerdcast","863",8195,1083,1871
+"nerdcast","864",6466,615,1335
+"nerdcast","865",6962,734,1035
+"nerdcast","866",4770,671,1018
+"nerdcast","867",5700,384,1446
+"nerdcast","868",6896,529,1547
+"nerdcast","869",7792,420,1481
+"nerdcast","870",5882,275,1271
+"nerdcast","871",7149,740,1438
+"nerdcast","872",5687,267,1180
+"nerdcast","873",10700,413,987
+"nerdcast","874",6471,363,1235
+"nerdcast","875",6146,386,1054
+"nerdcast","876",7001,0,0
+"nerdcast","877",6426,450,1524
+"nerdcast","878",5537,426,1473
+"nerdcast","879",7732,221,1300
+"nerdcast","880",5467,778,1863
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1294,6 +1426,11 @@
 "nerdtech","80",3287,0,0
 "nerdtech","81",3023,0,0
 "nerdtech","82",3733,0,0
+"nerdtech","83",2791,0,0
+"nerdtech","84",4276,0,0
+"nerdtech","85",2818,0,0
+"nerdtech","86",4120,0,0
+"nerdtech","87",2558,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1310,7 +1447,11 @@
 "papo-de-parceiro","14",2108,0,0
 "papo-de-parceiro","15",2159,0,0
 "papo-de-parceiro","16",2353,0,0
-"papo-de-parceiro","17",10,0,0
+"papo-de-parceiro","17",1915,0,0
+"papo-de-parceiro","18",3032,0,0
+"papo-de-parceiro","19",3032,0,0
+"papo-de-parceiro","20 ",2213,0,0
+"papo-de-parceiro","21",2664,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0
