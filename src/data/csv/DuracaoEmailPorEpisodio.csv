@@ -123,6 +123,11 @@
 "caneca-de-mamicas","103",5433,0,0
 "caneca-de-mamicas","104",5281,0,0
 "caneca-de-mamicas","105 ",5944,0,0
+"caneca-de-mamicas","106",5093,0,0
+"caneca-de-mamicas","107",3931,0,0
+"caneca-de-mamicas","108",4397,0,0
+"caneca-de-mamicas","109",3284,0,0
+"caneca-de-mamicas","110",4546,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -219,6 +224,7 @@
 "empreendedor","90",2950,0,0
 "empreendedor","91",2452,0,0
 "empreendedor","92",3074,0,0
+"empreendedor","93",3175,0,0
 "extra","Oferecido por Valorant",4713,0,0
 "extra","Oferecido por Participathivos",2571,0,0
 "extra","Oferecido por Spotify",3780,0,0
@@ -354,6 +360,11 @@
 "la-do-bunker","93",2293,0,0
 "la-do-bunker","94",2737,0,0
 "la-do-bunker","95",2534,0,0
+"la-do-bunker","96",2609,0,0
+"la-do-bunker","97",2377,0,0
+"la-do-bunker","98",2404,0,0
+"la-do-bunker","99",2896,0,0
+"la-do-bunker","100",3401,0,0
 "mau-acompanhado","02",2189,0,0
 "mau-acompanhado","03",2408,0,0
 "mau-acompanhado","04",1874,0,0
@@ -401,6 +412,12 @@
 "mau-acompanhado","47",3219,0,0
 "mau-acompanhado","48",3946,0,0
 "mau-acompanhado","49",4507,0,0
+"mau-acompanhado","50",4420,0,0
+"mau-acompanhado","51",3942,0,0
+"mau-acompanhado","52",4752,0,0
+"mau-acompanhado","53",4643,0,0
+"mau-acompanhado","54",4326,0,0
+"mau-acompanhado","55",3882,0,0
 "mau-acompanhado-nerdcast","01",3354,0,0
 "mau-acompanhado-nerdcast","21",3375,0,0
 "nerdcash","01",3003,0,0
@@ -1343,6 +1360,14 @@
 "nerdcast","878",5537,426,1473
 "nerdcast","879",7732,221,1300
 "nerdcast","880",5467,778,1863
+"nerdcast","BabyCast 4 ",5171,0,0
+"nerdcast","881",7209,465,1199
+"nerdcast","Extra oferecido por The Waffle King",2458,0,0
+"nerdcast","882",6270,975,1947
+"nerdcast","883",6624,399,784
+"nerdcast","884",11841,0,0
+"nerdcast","885",7436,434,1534
+"nerdcast","886",6514,320,1275
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1431,6 +1456,7 @@
 "nerdtech","85",2818,0,0
 "nerdtech","86",4120,0,0
 "nerdtech","87",2558,0,0
+"nerdtech","88",3099,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1452,6 +1478,7 @@
 "papo-de-parceiro","19",3032,0,0
 "papo-de-parceiro","20 ",2213,0,0
 "papo-de-parceiro","21",2664,0,0
+"papo-de-parceiro","22",3358,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0
