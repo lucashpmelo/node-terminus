@@ -131,6 +131,9 @@
 "caneca-de-mamicas","111",4579,0,0
 "caneca-de-mamicas","112",4453,0,0
 "caneca-de-mamicas","113",4685,0,0
+"caneca-de-mamicas","114",5304,0,0
+"caneca-de-mamicas","115",5612,0,0
+"caneca-de-mamicas","116",2350,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -371,6 +374,9 @@
 "la-do-bunker","101",3333,0,0
 "la-do-bunker","102",3510,0,0
 "la-do-bunker","103",2403,0,0
+"la-do-bunker","104",2558,0,0
+"la-do-bunker","105",2805,0,0
+"la-do-bunker","106",2849,0,0
 "mau-acompanhado","02",2189,0,0
 "mau-acompanhado","03",2408,0,0
 "mau-acompanhado","04",1874,0,0
@@ -427,6 +433,11 @@
 "mau-acompanhado","56",4947,0,0
 "mau-acompanhado","57",5539,0,0
 "mau-acompanhado","58",4956,0,0
+"mau-acompanhado","59",5651,0,0
+"mau-acompanhado","60",5864,0,0
+"mau-acompanhado","61",5514,0,0
+"mau-acompanhado","62",10,0,0
+"mau-acompanhado","63",5030,0,0
 "mau-acompanhado-nerdcast","01",3354,0,0
 "mau-acompanhado-nerdcast","21",3375,0,0
 "nerdcash","01",3003,0,0
@@ -1379,6 +1390,10 @@
 "nerdcast","886",6514,320,1275
 "nerdcast","887",6745,299,1341
 "nerdcast","888",5944,929,1970
+"nerdcast","889",7619,450,1111
+"nerdcast","890",6242,378,1281
+"nerdcast","891",5529,290,1006
+"nerdcast","892",12337,0,0
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1468,6 +1483,7 @@
 "nerdtech","86",4120,0,0
 "nerdtech","87",2558,0,0
 "nerdtech","88",3099,0,0
+"nerdtech","89",2953,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1491,6 +1507,7 @@
 "papo-de-parceiro","21",2664,0,0
 "papo-de-parceiro","22",3358,0,0
 "papo-de-parceiro","23",2357,0,0
+"papo-de-parceiro","24",1564,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0

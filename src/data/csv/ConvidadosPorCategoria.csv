@@ -1,6 +1,6 @@
 "product","categoria","idGuest","convidado","total"
 "","",326,"Guilherme Briggs",1
-"caneca-de-mamicas","Caneca de Mamicas",1212141723,"Mary Joe",35
+"caneca-de-mamicas","Caneca de Mamicas",1212141723,"Mary Joe",36
 "caneca-de-mamicas","Caneca de Mamicas",1212141924,"Alan Dubox",11
 "caneca-de-mamicas","Caneca de Mamicas",1212141820,"Daniella Freixo de Faria",8
 "caneca-de-mamicas","Caneca de Mamicas",1212139440,"Patrícia Mafra",8
@@ -15,10 +15,12 @@
 "caneca-de-mamicas","Caneca de Mamicas",1212129496,"Ana Arantes",3
 "caneca-de-mamicas","Caneca de Mamicas",1212122799,"Fabio Yabu",3
 "caneca-de-mamicas","Caneca de Mamicas",1212142053,"Jovem Nerd",3
+"caneca-de-mamicas","Caneca de Mamicas",1212130298,"Mau Faccio",3
 "caneca-de-mamicas","Caneca de Mamicas",1212141987,"Peter",3
 "caneca-de-mamicas","Caneca de Mamicas",1212137415,"Talita Ribeiro",3
 "caneca-de-mamicas","Caneca de Mamicas",1212142159,"Tati Baez",3
 "caneca-de-mamicas","Caneca de Mamicas",1212141842,"Tina Menna",3
+"caneca-de-mamicas","Caneca de Mamicas",1212143471,"Vitor Rossi",3
 "caneca-de-mamicas","Caneca de Mamicas",1212141988,"Amelia Molino",2
 "caneca-de-mamicas","Caneca de Mamicas",1212123847,"André Souza",2
 "caneca-de-mamicas","Caneca de Mamicas",1212142850,"Angélica Kalil",2
@@ -28,7 +30,6 @@
 "caneca-de-mamicas","Caneca de Mamicas",1212122317,"Gaveta",2
 "caneca-de-mamicas","Caneca de Mamicas",1212143563,"Isabela Del Monde",2
 "caneca-de-mamicas","Caneca de Mamicas",1212138256,"Lierson Mattenhauer",2
-"caneca-de-mamicas","Caneca de Mamicas",1212130298,"Mau Faccio",2
 "caneca-de-mamicas","Caneca de Mamicas",1212142435,"Patricia Zarour",2
 "caneca-de-mamicas","Caneca de Mamicas",1212141785,"Priscila Gama",2
 "caneca-de-mamicas","Caneca de Mamicas",1212122464,"Sr.K",2
@@ -42,11 +43,13 @@
 "caneca-de-mamicas","Caneca de Mamicas",1212142254,"Ane Vaz",1
 "caneca-de-mamicas","Caneca de Mamicas",1212142230,"Barbara Pola Russell",1
 "caneca-de-mamicas","Caneca de Mamicas",1212126483,"Barbara Russell",1
+"caneca-de-mamicas","Caneca de Mamicas",1212145142,"Bia Caruso",1
 "caneca-de-mamicas","Caneca de Mamicas",1212123564,"Caio Gomes",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143391,"Carla Zeglio",1
 "caneca-de-mamicas","Caneca de Mamicas",1212144940,"Cristian Wari'u",1
 "caneca-de-mamicas","Caneca de Mamicas",1212135982,"Daniel Jezini",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143522,"Daniela Risso",1
+"caneca-de-mamicas","Caneca de Mamicas",1212145194,"Debinha",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143160,"Dra. Abir Faissal",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143707,"Fernanda Britto",1
 "caneca-de-mamicas","Caneca de Mamicas",1212135105,"Fernando Reule",1
@@ -57,6 +60,7 @@
 "caneca-de-mamicas","Caneca de Mamicas",1212142349,"Gustavo Rebello",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143616,"Igor Seco",1
 "caneca-de-mamicas","Caneca de Mamicas",1212142213,"Isabela Fontanella",1
+"caneca-de-mamicas","Caneca de Mamicas",1212145141,"Isabella Verissimo",1
 "caneca-de-mamicas","Caneca de Mamicas",3515,"JP",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143061,"Jazz Rider",1
 "caneca-de-mamicas","Caneca de Mamicas",1212142148,"Jefferson Schroeder",1
@@ -78,7 +82,6 @@
 "caneca-de-mamicas","Caneca de Mamicas",1212123647,"Rogério Bonfim",1
 "caneca-de-mamicas","Caneca de Mamicas",1212141801,"Sidney Magal",1
 "caneca-de-mamicas","Caneca de Mamicas",1212142901,"Teo Scussel",1
-"caneca-de-mamicas","Caneca de Mamicas",1212143471,"Vitor Rossi",1
 "caneca-de-mamicas","Caneca de Mamicas",1212142607,"Viviane Bellini",1
 "caneca-de-mamicas","Caneca de Mamicas",1212143617,"Will",1
 "empreendedor","Empreendedor",1212126189,"Flávio Augusto",85
@@ -168,12 +171,12 @@
 "generacast","Generacast",1212141769,"Rita Wu",1
 "generacast","Generacast",1212143005,"Rodrigo Trespach",1
 "generacast","Generacast",1212143006,"Tawany Rocha",1
-"la-do-bunker","Lá do Bunker",1212139351,"Pri Ganiko",85
-"la-do-bunker","Lá do Bunker",1212141954,"Camila Sousa",75
+"la-do-bunker","Lá do Bunker",1212139351,"Pri Ganiko",88
+"la-do-bunker","Lá do Bunker",1212141954,"Camila Sousa",78
 "la-do-bunker","Lá do Bunker",1212141859,"Gabriel Avila",46
 "la-do-bunker","Lá do Bunker",1212141845,"Pedro Duarte",39
 "la-do-bunker","Lá do Bunker",1212141330,"Tayná Garcia",37
-"la-do-bunker","Lá do Bunker",1212143191,"Arthur Eloi",19
+"la-do-bunker","Lá do Bunker",1212143191,"Arthur Eloi",21
 "la-do-bunker","Lá do Bunker",1212142827,"Pedro Siqueira",10
 "la-do-bunker","Lá do Bunker",1212130299,"Marina Val",8
 "la-do-bunker","Lá do Bunker",1212142053,"Jovem Nerd",3
@@ -183,13 +186,13 @@
 "la-do-bunker","Lá do Bunker",1212140265,"Katiucha Barcelos",1
 "la-do-bunker","Lá do Bunker",1212137936,"Marcelo Bassoli",1
 "la-do-bunker","Lá do Bunker",1212140172,"Max Valarezo",1
-"mau-acompanhado","Mau Acompanhado",1212130298,"Mau Faccio",55
-"mau-acompanhado","Mau Acompanhado",1212143471,"Vitor Rossi",55
-"mau-acompanhado","Mau Acompanhado",1212141723,"Mary Joe",43
+"mau-acompanhado","Mau Acompanhado",1212130298,"Mau Faccio",60
+"mau-acompanhado","Mau Acompanhado",1212143471,"Vitor Rossi",60
+"mau-acompanhado","Mau Acompanhado",1212141723,"Mary Joe",48
+"mau-acompanhado","Mau Acompanhado",1212144226,"Doug Lira",2
 "mau-acompanhado-nerdcast","Mau Acompanhado",1212130298,"Mau Faccio",2
 "mau-acompanhado-nerdcast","Mau Acompanhado",1212143471,"Vitor Rossi",2
 "mau-acompanhado-nerdcast","Mau Acompanhado",1212129496,"Ana Arantes",1
-"mau-acompanhado","Mau Acompanhado",1212144226,"Doug Lira",1
 "mau-acompanhado","Mau Acompanhado",1212144184,"Guilherme Baldi",1
 "mau-acompanhado","Mau Acompanhado",3515,"JP",1
 "mau-acompanhado","Mau Acompanhado",1212144630,"Leonardo Amaral",1
@@ -216,27 +219,27 @@
 "nerdcash","NerdCash",1212140352,"Marcelo Missioneiro",1
 "nerdcash","NerdCash",1212133328,"Nathalia Arcuri",1
 "nerdcash","NerdCash",1212142536,"Washington Santos",1
-"nerdcast","NerdCast",274,"Tucano",327
-"nerdcast","NerdCast",3515,"JP",184
-"nerdcast","NerdCast",2595,"Eduardo Spohr",180
-"nerdcast","NerdCast",1212122462,"Carlos Voltor",178
+"nerdcast","NerdCast",274,"Tucano",328
+"nerdcast","NerdCast",3515,"JP",185
+"nerdcast","NerdCast",1212122462,"Carlos Voltor",181
+"nerdcast","NerdCast",2595,"Eduardo Spohr",181
 "nerdcast","NerdCast",1212122464,"Sr.K",132
 "nerdcast","NerdCast",3244,"Bluehand",113
 "nerdcast","NerdCast",2002,"Portuguesa",81
-"nerdcast","NerdCast",1212123564,"Caio Gomes",66
+"nerdcast","NerdCast",1212123564,"Caio Gomes",67
 "nerdcast","NerdCast",1212122862,"Atila",65
-"nerdcast","NerdCast",1212123226,"Rex",63
-"nerdcast","NerdCast",1212140265,"Katiucha Barcelos",61
+"nerdcast","NerdCast",1212123226,"Rex",64
+"nerdcast","NerdCast",1212140265,"Katiucha Barcelos",62
 "nerdcast","NerdCast",2003,"Sra. Jovem Nerd",59
 "nerdcast","NerdCast",1212122795,"Affonso Solano",57
 "nerdcast","NerdCast",1212137936,"Marcelo Bassoli",57
 "nerdcast","NerdCast",3508,"Guga Ferrari",53
-"nerdcast","NerdCast",1212127694,"Filipe Figueiredo",49
+"nerdcast","NerdCast",1212127694,"Filipe Figueiredo",50
 "nerdcast","NerdCast",1212123847,"André Souza",44
-"nerdcast","NerdCast",1212122669,"Leonel Caldela",38
+"nerdcast","NerdCast",1212122669,"Leonel Caldela",39
 "nerdcast","NerdCast",1212124836,"Guga Mafra",35
+"nerdcast","NerdCast",1212122797,"Diogo Braga",34
 "nerdcast","NerdCast",1212122799,"Fabio Yabu",34
-"nerdcast","NerdCast",1212122797,"Diogo Braga",33
 "nerdcast","NerdCast",309,"Nick Ellis",29
 "nerdcast","NerdCast",1212122846,"Jonny Ken",28
 "nerdcast","NerdCast",1212122465,"Afonso 3d",27
@@ -259,16 +262,16 @@
 "nerdcast","NerdCast",1212130298,"Mau Faccio",9
 "nerdcast","NerdCast",1212123574,"Henrique Granado",8
 "nerdcast","NerdCast",1212124762,"Izzy Nobre",8
+"nerdcast","NerdCast",1212123033,"Marcelo Forlani",8
+"nerdcast","NerdCast",1212140172,"Max Valarezo",8
 "nerdcast","NerdCast",1212126308,"David Preti",7
 "nerdcast","NerdCast",1212123334,"Edney Souza",7
 "nerdcast","NerdCast",1212122798,"Francine Gladulich",7
 "nerdcast","NerdCast",1212128349,"Irado",7
 "nerdcast","NerdCast",1212124811,"Marcelinho",7
-"nerdcast","NerdCast",1212123033,"Marcelo Forlani",7
 "nerdcast","NerdCast",5035,"Maurício Saldanha",7
 "nerdcast","NerdCast",1212123565,"Rafael Calsaverini",7
 "nerdcast","NerdCast",1212125950,"Marcela Versiani",6
-"nerdcast","NerdCast",1212140172,"Max Valarezo",6
 "nerdcast","NerdCast",3641,"Almôndega",5
 "nerdcast","NerdCast",3325,"Carlos Merigo",5
 "nerdcast","NerdCast",3448,"Dubox",5
@@ -334,6 +337,7 @@
 "nerdcast","NerdCast",1212124682,"Vinícius K-Max",2
 "nerdcast","NerdCast",1212138704,"Vinícius Schiavini",2
 "nerdcast","NerdCast",1212140607,"Vivi",2
+"nerdcast","NerdCast",1212144148,"Vítor Soares",2
 "nerdcast","NerdCast",1212139782,"Yasodara Córdova",2
 "nerdcast","NerdCast",1212136778,"Adriano Paciello",1
 "nerdcast","NerdCast",1212141244,"Ale Ferreira",1
@@ -480,7 +484,6 @@
 "nerdcast","NerdCast",1212143154,"Tupá Guerra",1
 "nerdcast","NerdCast",1212140217,"Vinícios Duarte",1
 "nerdcast","NerdCast",1212128627,"Virgílio Virga",1
-"nerdcast","NerdCast",1212144148,"Vítor Soares",1
 "nerdcast","NerdCast",1212144494,"Wagner Araújo",1
 "nerdcast","NerdCast",1212142893,"Yaso",1
 "nerdcast","NerdCast",1212141523,"Ynaê Lopes dos Santos",1
@@ -496,12 +499,12 @@
 "nerdlab","NerdLab",1212138349,"Ricardo Cappra",1
 "nerdlab","NerdLab",1212138350,"Rita Wuu",1
 "nerdlab","NerdLab",1212138354,"Sylvia Anjos",1
-"nerdtech","NerdTech",1212130385,"Paulo Silveira",83
+"nerdtech","NerdTech",1212130385,"Paulo Silveira",84
 "nerdtech","NerdTech",1212131200,"Maurício Linhares",67
-"nerdtech","NerdTech",1212137166,"Roberta Arcoverde",37
-"nerdtech","NerdTech",1212141781,"Mario Souto",18
+"nerdtech","NerdTech",1212137166,"Roberta Arcoverde",38
+"nerdtech","NerdTech",1212141781,"Mario Souto",19
 "nerdtech","NerdTech",1212130386,"Sérgio Lopes",15
-"nerdtech","NerdTech",1212137796,"André Breves",9
+"nerdtech","NerdTech",1212137796,"André Breves",10
 "nerdtech","NerdTech",1212133869,"Guilherme Silveira",8
 "nerdtech","NerdTech",1212122862,"Atila",7
 "nerdtech","NerdTech",1212140666,"Fabrício Carraro",2
@@ -531,6 +534,7 @@
 "nerdtech","NerdTech",1212141081,"Vitor Pamplona",1
 "nerdtech","NerdTech",1212143891,"Winna Zansavio",1
 "papo-de-parceiro","Papo de Parceiro",1212141891,"Leandro Leite Soares",22
+"papo-de-parceiro","Papo de Parceiro",1212142927,"Flavia Marcon",2
 "papo-de-parceiro","Papo de Parceiro",1212143792,"Alexandre Nogueira",1
 "papo-de-parceiro","Papo de Parceiro",1212142302,"Ana Carina",1
 "papo-de-parceiro","Papo de Parceiro",1212142585,"Carla Rigonatto",1
@@ -538,16 +542,17 @@
 "papo-de-parceiro","Papo de Parceiro",1212142928,"Edgar Loja Quebra Galho",1
 "papo-de-parceiro","Papo de Parceiro",1212142137,"Fabrício Garcia",1
 "papo-de-parceiro","Papo de Parceiro",1212142450,"Fernando Bravo",1
-"papo-de-parceiro","Papo de Parceiro",1212142927,"Flavia Marcon",1
 "papo-de-parceiro","Papo de Parceiro",1212142320,"Gabriel Bollico",1
 "papo-de-parceiro","Papo de Parceiro",1212144015,"Gilmar Theobald",1
 "papo-de-parceiro","Papo de Parceiro",1212145016,"Guilherme Artile",1
 "papo-de-parceiro","Papo de Parceiro",1212142811,"Henrique Coronati",1
 "papo-de-parceiro","Papo de Parceiro",1212143098,"Igor Savoia",1
 "papo-de-parceiro","Papo de Parceiro",1212141996,"Isabel Cristina Santos Ferreira",1
+"papo-de-parceiro","Papo de Parceiro",1212145175,"Izabela Arantes",1
 "papo-de-parceiro","Papo de Parceiro",1212142091,"Jairo Rosenhek",1
 "papo-de-parceiro","Papo de Parceiro",1212142810,"Julio Trajano Rodrigues",1
 "papo-de-parceiro","Papo de Parceiro",1212142449,"Leandro Castanheira",1
+"papo-de-parceiro","Papo de Parceiro",1212145174,"Leonardo Fernandes",1
 "papo-de-parceiro","Papo de Parceiro",1212144436,"Luiz Felippe Fogaça",1
 "papo-de-parceiro","Papo de Parceiro",1212143558,"Léo Mantovan",1
 "papo-de-parceiro","Papo de Parceiro",1212144778,"Marciano Perondi",1
