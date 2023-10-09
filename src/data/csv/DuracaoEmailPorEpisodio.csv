@@ -138,6 +138,13 @@
 "caneca-de-mamicas","118",5136,0,0
 "caneca-de-mamicas","119",4095,0,0
 "caneca-de-mamicas","120",3182,0,0
+"caneca-de-mamicas","121",4401,0,0
+"caneca-de-mamicas","122",6355,0,0
+"caneca-de-mamicas","123",4156,0,0
+"caneca-de-mamicas","124",5508,0,0
+"caneca-de-mamicas","125",5174,0,0
+"caneca-de-mamicas","126",5355,0,0
+"caneca-de-mamicas","127",5560,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -249,6 +256,7 @@
 "extra","Oferecido por Instituto Mauá de Tecnologia",2295,0,0
 "extra","Oferecido por Magic: The Gathering",3035,0,0
 "extra","Oferecido por XP EDUCAÇÃO",3344,0,0
+"extra","Oferecido por Prime Vídeo",5957,0,0
 "ge","01",2566,0,0
 "generacast","01",5480,0,0
 "generacast","02",4459,0,0
@@ -385,6 +393,12 @@
 "la-do-bunker","108",2670,0,0
 "la-do-bunker","109",2403,0,0
 "la-do-bunker","110",2901,0,0
+"la-do-bunker","111",2441,0,0
+"la-do-bunker","112",2542,0,0
+"la-do-bunker","113",2453,0,0
+"la-do-bunker","114",3239,0,0
+"la-do-bunker","115",3004,0,0
+"la-do-bunker","116",2390,0,0
 "mau-acompanhado","02",2189,0,0
 "mau-acompanhado","03",2408,0,0
 "mau-acompanhado","04",1874,0,0
@@ -450,6 +464,12 @@
 "mau-acompanhado","65",4009,0,0
 "mau-acompanhado","66",4009,0,0
 "mau-acompanhado","67",4792,0,0
+"mau-acompanhado","68",4436,0,0
+"mau-acompanhado","69",6097,0,0
+"mau-acompanhado","70",4865,0,0
+"mau-acompanhado","71",5589,0,0
+"mau-acompanhado","72",6273,0,0
+"mau-acompanhado","73",5106,0,0
 "mau-acompanhado-nerdcast","01",3354,0,0
 "mau-acompanhado-nerdcast","21",3375,0,0
 "nerdcash","01",3003,0,0
@@ -1410,6 +1430,13 @@
 "nerdcast","894",6002,307,1208
 "nerdcast","895",6269,389,1534
 "nerdcast","896",6007,0,0
+"nerdcast","897",5557,0,0
+"nerdcast","898",5972,0,0
+"nerdcast","899",6688,623,1553
+"nerdcast","EXTRA",4337,0,0
+"nerdcast","900",9410,0,0
+"nerdcast","901",6322,1071,1786
+"nerdcast","902",7315,854,1691
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
@@ -1501,6 +1528,8 @@
 "nerdtech","88",3099,0,0
 "nerdtech","89",2953,0,0
 "nerdtech","90",2679,0,0
+"nerdtech","91",2788,0,0
+"nerdtech","92",3195,0,0
 "papo-de-parceiro","01",1651,0,0
 "papo-de-parceiro","02",2820,0,0
 "papo-de-parceiro","03",2100,0,0
@@ -1526,6 +1555,7 @@
 "papo-de-parceiro","23",2357,0,0
 "papo-de-parceiro","24",1564,0,0
 "papo-de-parceiro","25",2856,0,0
+"papo-de-parceiro","26",2712,0,0
 "speak-english","01",3010,0,0
 "speak-english","02",1892,0,0
 "speak-english","03",2559,0,0
