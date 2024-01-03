@@ -135,8 +135,8 @@
 "Biografia",1212141033,"Tiago Abravanel",1
 "Cinema",1212122462,"Carlos Voltor",60
 "Cinema",274,"Tucano",38
-"Cinema",1212139351,"Pri Ganiko",29
-"Cinema",1212141954,"Camila Sousa",28
+"Cinema",1212139351,"Pri Ganiko",30
+"Cinema",1212141954,"Camila Sousa",29
 "Cinema",1212137936,"Marcelo Bassoli",26
 "Cinema",3508,"Guga Ferrari",23
 "Cinema",1212140265,"Katiucha Barcelos",21
@@ -144,22 +144,23 @@
 "Cinema",2595,"Eduardo Spohr",18
 "Cinema",3515,"JP",17
 "Cinema",1212122464,"Sr.K",13
+"Cinema",1212141859,"Gabriel Avila",11
 "Cinema",1212122795,"Affonso Solano",10
-"Cinema",1212141859,"Gabriel Avila",10
 "Cinema",3662,"Android",9
 "Cinema",1212140172,"Max Valarezo",9
+"Cinema",1212143191,"Arthur Eloi",8
 "Cinema",1212141393,"LOAD",8
 "Cinema",1212122669,"Leonel Caldela",8
-"Cinema",1212143191,"Arthur Eloi",7
+"Cinema",1212141330,"Tayná Garcia",8
 "Cinema",3244,"Bluehand",7
 "Cinema",1212123033,"Marcelo Forlani",7
-"Cinema",1212141330,"Tayná Garcia",7
 "Cinema",1212123564,"Caio Gomes",6
 "Cinema",1212141845,"Pedro Duarte",6
 "Cinema",1212122797,"Diogo Braga",5
 "Cinema",1212123847,"André Souza",4
 "Cinema",1212122317,"Gaveta",4
 "Cinema",326,"Guilherme Briggs",4
+"Cinema",1212142827,"Pedro Siqueira",4
 "Cinema",1212141924,"Alan Dubox",3
 "Cinema",1212123573,"Amigo Imaginário",3
 "Cinema",1212122862,"Atila",3
@@ -168,7 +169,6 @@
 "Cinema",1212122799,"Fabio Yabu",3
 "Cinema",5035,"Maurício Saldanha",3
 "Cinema",309,"Nick Ellis",3
-"Cinema",1212142827,"Pedro Siqueira",3
 "Cinema",2002,"Portuguesa",3
 "Cinema",2003,"Sra. Jovem Nerd",3
 "Cinema",1212141184,"Ale Santos",2
@@ -222,12 +222,12 @@
 "Cinema",1212143471,"Vitor Rossi",1
 "Ciências",1212122862,"Atila",48
 "Ciências",1212123564,"Caio Gomes",35
-"Ciências",1212123847,"André Souza",26
+"Ciências",1212123847,"André Souza",27
 "Ciências",1212141282,"Ricardo di Lazzaro Filho",14
 "Ciências",3244,"Bluehand",10
 "Ciências",1212125942,"Pirula",10
+"Ciências",1212138572,"Altay Souza",7
 "Ciências",1212123565,"Rafael Calsaverini",7
-"Ciências",1212138572,"Altay Souza",6
 "Ciências",1212129496,"Ana Arantes",6
 "Ciências",1212122846,"Jonny Ken",6
 "Ciências",274,"Tucano",6
@@ -243,6 +243,7 @@
 "Ciências",1212128349,"Irado",2
 "Ciências",1212144295,"Laura Marise",2
 "Ciências",1212142611,"Michel Naslavsky",2
+"Ciências",1212139440,"Patrícia Mafra",2
 "Ciências",1212122464,"Sr.K",2
 "Ciências",1212126050,"Sérgio Sacani",2
 "Ciências",1212142845,"Thiago Gonçalves",2
@@ -281,7 +282,6 @@
 "Ciências",1212143254,"Murilo Zanini de Carvalho",1
 "Ciências",1212141689,"Otto Heringer",1
 "Ciências",1212126598,"Paloma",1
-"Ciências",1212139440,"Patrícia Mafra",1
 "Ciências",1212141845,"Pedro Duarte",1
 "Ciências",1212139351,"Pri Ganiko",1
 "Ciências",1212143434,"Rafael Vicente Leite",1
@@ -290,6 +290,7 @@
 "Ciências",1212141769,"Rita Wu",1
 "Ciências",1212143005,"Rodrigo Trespach",1
 "Ciências",1212126641,"Sandro Magaldi",1
+"Ciências",2003,"Sra. Jovem Nerd",1
 "Ciências",1212143006,"Tawany Rocha",1
 "Ciências",1212142901,"Teo Scussel",1
 "Ciências",1212141842,"Tina Menna",1
@@ -297,57 +298,60 @@
 "Ciências",1212142607,"Viviane Bellini",1
 "Ciências",1212144148,"Vítor Soares",1
 "Ciências",1212142893,"Yaso",1
-"Comportamento",1212141723,"Mary Joe",86
-"Comportamento",1212130298,"Mau Faccio",80
-"Comportamento",1212143471,"Vitor Rossi",79
+"Comportamento",1212141723,"Mary Joe",91
+"Comportamento",1212130298,"Mau Faccio",84
+"Comportamento",1212143471,"Vitor Rossi",83
 "Comportamento",1212122464,"Sr.K",24
 "Comportamento",2002,"Portuguesa",20
 "Comportamento",274,"Tucano",19
+"Comportamento",1212123847,"André Souza",15
 "Comportamento",3515,"JP",15
 "Comportamento",1212129496,"Ana Arantes",14
-"Comportamento",1212123847,"André Souza",14
-"Comportamento",2003,"Sra. Jovem Nerd",13
+"Comportamento",2003,"Sra. Jovem Nerd",14
 "Comportamento",1212122797,"Diogo Braga",12
 "Comportamento",1212122795,"Affonso Solano",11
 "Comportamento",1212122465,"Afonso 3d",9
+"Comportamento",1212139440,"Patrícia Mafra",9
 "Comportamento",1212141924,"Alan Dubox",7
 "Comportamento",1212122862,"Atila",7
 "Comportamento",1212141891,"Leandro Leite Soares",7
-"Comportamento",1212139440,"Patrícia Mafra",7
+"Comportamento",1212138572,"Altay Souza",6
 "Comportamento",2595,"Eduardo Spohr",6
 "Comportamento",3508,"Guga Ferrari",6
-"Comportamento",1212138572,"Altay Souza",5
 "Comportamento",3244,"Bluehand",5
 "Comportamento",1212141820,"Daniella Freixo de Faria",5
 "Comportamento",1212126189,"Flávio Augusto",5
+"Comportamento",1212122798,"Francine Gladulich",5
 "Comportamento",1212131200,"Maurício Linhares",5
 "Comportamento",1212123226,"Rex",5
 "Comportamento",1212141282,"Ricardo di Lazzaro Filho",5
 "Comportamento",1212122799,"Fabio Yabu",4
-"Comportamento",1212122798,"Francine Gladulich",4
 "Comportamento",1212122317,"Gaveta",4
 "Comportamento",1212128349,"Irado",4
 "Comportamento",1212141894,"Marcela Soares",4
 "Comportamento",1212130385,"Paulo Silveira",4
 "Comportamento",1212141845,"Pedro Duarte",4
+"Comportamento",1212139351,"Pri Ganiko",4
 "Comportamento",3641,"Almôndega",3
 "Comportamento",1212122796,"Beto Estrada",3
 "Comportamento",1212123564,"Caio Gomes",3
+"Comportamento",1212142131,"Carolina Andrade",3
 "Comportamento",1212143219,"Fernanda Costa",3
 "Comportamento",1212124836,"Guga Mafra",3
 "Comportamento",1212138256,"Lierson Mattenhauer",3
 "Comportamento",1212141781,"Mario Souto",3
-"Comportamento",1212139351,"Pri Ganiko",3
 "Comportamento",1212142073,"Rafael Quina",3
 "Comportamento",1212137415,"Talita Ribeiro",3
 "Comportamento",1212142159,"Tati Baez",3
+"Comportamento",1212141330,"Tayná Garcia",3
 "Comportamento",1212123573,"Amigo Imaginário",2
 "Comportamento",1212144399,"Ana Bonassa",2
+"Comportamento",1212141954,"Camila Sousa",2
 "Comportamento",1212137030,"Carlinhos Troll",2
 "Comportamento",1212122462,"Carlos Voltor",2
-"Comportamento",1212142131,"Carolina Andrade",2
 "Comportamento",1212144226,"Doug Lira",2
 "Comportamento",1212142927,"Flavia Marcon",2
+"Comportamento",1212125499,"Gabriel Dread",2
 "Comportamento",1212142293,"Iana Villela",2
 "Comportamento",1212143563,"Isabela Del Monde",2
 "Comportamento",1212144295,"Laura Marise",2
@@ -357,14 +361,13 @@
 "Comportamento",1212142435,"Patricia Zarour",2
 "Comportamento",1212137166,"Roberta Arcoverde",2
 "Comportamento",1212144049,"Tatiana Perecin",2
-"Comportamento",1212141330,"Tayná Garcia",2
 "Comportamento",1212143962,"Thiago Queiroz",2
 "Comportamento",1212141244,"Ale Ferreira",1
 "Comportamento",1212143792,"Alexandre Nogueira",1
 "Comportamento",1212144776,"Anderson Suriz",1
 "Comportamento",1212142254,"Ane Vaz",1
+"Comportamento",1212143191,"Arthur Eloi",1
 "Comportamento",1212144200,"Augusto Quaresma Coellho",1
-"Comportamento",1212141954,"Camila Sousa",1
 "Comportamento",1212142585,"Carla Rigonatto",1
 "Comportamento",1212143391,"Carla Zeglio",1
 "Comportamento",1212142478,"Carlos Lazar",1
@@ -384,7 +387,7 @@
 "Comportamento",1212143707,"Fernanda Britto",1
 "Comportamento",1212142450,"Fernando Bravo",1
 "Comportamento",1212135105,"Fernando Reule",1
-"Comportamento",1212125499,"Gabriel Dread",1
+"Comportamento",1212141859,"Gabriel Avila",1
 "Comportamento",1212123034,"Gica Yabu",1
 "Comportamento",1212137575,"Gilmar Lopes",1
 "Comportamento",1212144184,"Guilherme Baldi",1
@@ -403,6 +406,7 @@
 "Comportamento",1212142449,"Leandro Castanheira",1
 "Comportamento",1212138478,"Leila",1
 "Comportamento",1212144630,"Leonardo Amaral",1
+"Comportamento",1212145893,"Leonardo Lanzetta",1
 "Comportamento",1212142463,"Lua",1
 "Comportamento",1212144436,"Luiz Felippe Fogaça",1
 "Comportamento",1212142281,"Maiko Arpino",1
@@ -419,6 +423,7 @@
 "Comportamento",1212141465,"Pamela Lopes",1
 "Comportamento",1212139590,"Pedro Paulo Silveira",1
 "Comportamento",1212145865,"Pedro Sabaciauskis",1
+"Comportamento",1212142827,"Pedro Siqueira",1
 "Comportamento",1212141987,"Peter",1
 "Comportamento",1212125498,"Pierre Schurmann",1
 "Comportamento",1212144269,"Rafael Pimenta",1
@@ -436,8 +441,10 @@
 "Comportamento",1212141033,"Tiago Abravanel",1
 "Comportamento",1212144060,"Tiago Zaidan",1
 "Comportamento",1212141842,"Tina Menna",1
+"Comportamento",1212145926,"Victor Camejo",1
 "Comportamento",1212142607,"Viviane Bellini",1
 "Comportamento",1212142893,"Yaso",1
+"Comportamento",1212145921,"yuri",1
 "Cotidiano",1212122464,"Sr.K",44
 "Cotidiano",274,"Tucano",36
 "Cotidiano",1212141723,"Mary Joe",25
@@ -559,6 +566,7 @@
 "Cotidiano",1212142607,"Viviane Bellini",1
 "Cotidiano",1212142536,"Washington Santos",1
 "Cotidiano",1212142893,"Yaso",1
+"Cotidiano",1212145891,"nerdcast 643",1
 "Dia dos Namorados",2002,"Portuguesa",14
 "Dia dos Namorados",2003,"Sra. Jovem Nerd",14
 "Dia dos Namorados",1212122464,"Sr.K",11
@@ -893,6 +901,7 @@
 "Games",1212130385,"Paulo Silveira",4
 "Games",1212122795,"Affonso Solano",3
 "Games",1212137166,"Roberta Arcoverde",3
+"Games",1212143191,"Arthur Eloi",2
 "Games",1212133984,"Barbara Gutierrez",2
 "Games",3515,"JP",2
 "Games",1212138256,"Lierson Mattenhauer",2
@@ -906,7 +915,6 @@
 "Games",3641,"Almôndega",1
 "Games",1212142125,"Amora Bettany",1
 "Games",1212137796,"André Breves",1
-"Games",1212143191,"Arthur Eloi",1
 "Games",3244,"Bluehand",1
 "Games",1212142393,"Buck O Balde",1
 "Games",1212123564,"Caio Gomes",1
@@ -1061,22 +1069,23 @@
 "História Alternativa",1212143005,"Rodrigo Trespach",1
 "História Alternativa",1212143006,"Tawany Rocha",1
 "História Alternativa",1212143471,"Vitor Rossi",1
-"Internet",1212139351,"Pri Ganiko",14
-"Internet",1212141954,"Camila Sousa",13
+"Internet",1212139351,"Pri Ganiko",16
+"Internet",1212141954,"Camila Sousa",15
+"Internet",1212141330,"Tayná Garcia",8
 "Internet",1212141781,"Mario Souto",7
 "Internet",1212130385,"Paulo Silveira",7
+"Internet",1212141859,"Gabriel Avila",6
 "Internet",1212141891,"Leandro Leite Soares",6
 "Internet",1212131200,"Maurício Linhares",6
 "Internet",1212141845,"Pedro Duarte",6
-"Internet",1212141330,"Tayná Garcia",6
+"Internet",1212143191,"Arthur Eloi",5
 "Internet",313,"Cris Dias",4
-"Internet",1212141859,"Gabriel Avila",4
 "Internet",4877,"Marco Gomes",4
 "Internet",1212142033,"Nicolas Borsoi",3
 "Internet",1212139590,"Pedro Paulo Silveira",3
+"Internet",1212142827,"Pedro Siqueira",3
 "Internet",1212137166,"Roberta Arcoverde",3
 "Internet",1212137796,"André Breves",2
-"Internet",1212143191,"Arthur Eloi",2
 "Internet",3244,"Bluehand",2
 "Internet",1212122463,"Cardoso",2
 "Internet",1212123334,"Edney Souza",2
@@ -1092,6 +1101,7 @@
 "Internet",3325,"Carlos Merigo",1
 "Internet",1212122462,"Carlos Voltor",1
 "Internet",1212142131,"Carolina Andrade",1
+"Internet",1212123529,"Cauê Moura",1
 "Internet",1212144940,"Cristian Wari'u",1
 "Internet",1212142586,"Dafne Parreiras Guimarães",1
 "Internet",1212145851,"Denis Balaguer",1
@@ -1103,6 +1113,7 @@
 "Internet",1212135105,"Fernando Reule",1
 "Internet",1212142130,"Flavia Calina",1
 "Internet",1212142927,"Flavia Marcon",1
+"Internet",1212126249,"Fê Castanhari",1
 "Internet",1212142320,"Gabriel Bollico",1
 "Internet",1212143079,"Getúlio Santos",1
 "Internet",1212133869,"Guilherme Silveira",1
@@ -1114,6 +1125,7 @@
 "Internet",1212141393,"LOAD",1
 "Internet",1212142449,"Leandro Castanheira",1
 "Internet",1212143709,"Leonardo Balter",1
+"Internet",1212142010,"Lucas Inutilismo",1
 "Internet",1212145450,"Luiz Carlos Persy",1
 "Internet",1212142331,"Marcel Campos",1
 "Internet",1212144752,"Marcell Almeida",1
@@ -1126,7 +1138,6 @@
 "Internet",1212145244,"Nini",1
 "Internet",1212139440,"Patrícia Mafra",1
 "Internet",1212142602,"Pedro Pallotta",1
-"Internet",1212142827,"Pedro Siqueira",1
 "Internet",1212144753,"Priscilla Lugão",1
 "Internet",1212143080,"Renato Rampazzo",1
 "Internet",1212141282,"Ricardo di Lazzaro Filho",1
@@ -1342,10 +1353,10 @@
 "Notícias",1212137166,"Roberta Arcoverde",1
 "Notícias",1212142901,"Teo Scussel",1
 "Notícias",1212142893,"Yaso",1
-"Política",274,"Tucano",9
-"Política",1212127694,"Filipe Figueiredo",7
+"Política",274,"Tucano",10
+"Política",1212127694,"Filipe Figueiredo",8
+"Política",3515,"JP",7
 "Política",2595,"Eduardo Spohr",6
-"Política",3515,"JP",6
 "Política",1212139590,"Pedro Paulo Silveira",4
 "Política",1212131200,"Maurício Linhares",3
 "Política",1212142033,"Nicolas Borsoi",3
@@ -1617,9 +1628,9 @@
 "Séries",1212141431,"Renan Pizii",1
 "Séries",1212138688,"Rossana Modolin",1
 "Séries",2003,"Sra. Jovem Nerd",1
-"TV",1212130298,"Mau Faccio",71
-"TV",1212143471,"Vitor Rossi",70
-"TV",1212141723,"Mary Joe",60
+"TV",1212130298,"Mau Faccio",72
+"TV",1212143471,"Vitor Rossi",71
+"TV",1212141723,"Mary Joe",61
 "TV",1212139351,"Pri Ganiko",12
 "TV",1212141954,"Camila Sousa",9
 "TV",1212122462,"Carlos Voltor",8
@@ -1688,6 +1699,7 @@
 "Tecnologia",1212122463,"Cardoso",4
 "Tecnologia",313,"Cris Dias",3
 "Tecnologia",1212140606,"Mila Laranjeira",3
+"Tecnologia",1212141391,"André Fatala",2
 "Tecnologia",1212123579,"Bia Kunze",2
 "Tecnologia",2595,"Eduardo Spohr",2
 "Tecnologia",1212142331,"Marcel Campos",2
@@ -1699,7 +1711,6 @@
 "Tecnologia",1212139782,"Yasodara Córdova",2
 "Tecnologia",1212126386,"Alek",1
 "Tecnologia",1212138289,"Aline Carvalho",1
-"Tecnologia",1212141391,"André Fatala",1
 "Tecnologia",1212141278,"Bruno Gouveia",1
 "Tecnologia",1212129333,"Camila Laranjeira",1
 "Tecnologia",1212141954,"Camila Sousa",1
@@ -1727,6 +1738,7 @@
 "Tecnologia",1212140979,"Igor Santos",1
 "Tecnologia",1212142810,"Julio Trajano Rodrigues",1
 "Tecnologia",5034,"Jurandir Filho",1
+"Tecnologia",1212142071,"Kiko Reis",1
 "Tecnologia",1212142449,"Leandro Castanheira",1
 "Tecnologia",1212122952,"Leo Lopes",1
 "Tecnologia",1212143709,"Leonardo Balter",1

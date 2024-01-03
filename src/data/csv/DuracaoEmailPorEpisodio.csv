@@ -153,6 +153,9 @@
 "caneca-de-mamicas","133",5652,0,0
 "caneca-de-mamicas","134",5071,0,0
 "caneca-de-mamicas","135",4291,0,0
+"caneca-de-mamicas","136",4320,0,0
+"caneca-de-mamicas","137",4243,0,0
+"caneca-de-mamicas","138",3801,0,0
 "empreendedor","203",5087,0,0
 "empreendedor","243",3491,0,0
 "empreendedor","310",4950,0,0
@@ -418,6 +421,10 @@
 "la-do-bunker","123",3475,0,0
 "la-do-bunker","124",2688,0,0
 "la-do-bunker","125",3300,0,0
+"la-do-bunker","126",2696,0,0
+"la-do-bunker","127",2955,0,0
+"la-do-bunker","129",2672,0,0
+"la-do-bunker","128",3523,0,0
 "mau-acompanhado","02",2189,0,0
 "mau-acompanhado","03",2408,0,0
 "mau-acompanhado","04",1874,0,0
@@ -497,8 +504,13 @@
 "mau-acompanhado","79",4207,0,0
 "mau-acompanhado","80",6417,0,0
 "mau-acompanhado","81",5953,0,0
+"mau-acompanhado","82",3976,0,0
+"mau-acompanhado","83",4166,0,0
+"mau-acompanhado","84",4936,0,0
 "mau-acompanhado-nerdcast","01",3354,0,0
 "mau-acompanhado-nerdcast","21",3375,0,0
+"mau-falado","85",5469,0,0
+"nerd-na-cloud","1",3440,0,0
 "nerdcash","01",3003,0,0
 "nerdcash","02",3628,0,0
 "nerdcash","03",2875,0,0
@@ -1472,6 +1484,10 @@
 "nerdcast","908",5754,275,1003
 "nerdcast","909",7560,0,0
 "nerdcast","910",7036,530,1356
+"nerdcast","911",5410,0,0
+"nerdcast","Extra Spotify Podcast Festival ",3206,0,0
+"nerdcast","912",8273,801,1578
+"nerdcast","913",8747,435,2003
 "nerdlab","01",7451,0,0
 "nerdtech","01",1999,0,0
 "nerdtech","02",2733,0,0
