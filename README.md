@@ -4,6 +4,8 @@
 
 - [Quantidade total de participações de um Convidado](https://github.com/lucashpmelo/node-terminus/blob/main/src/data/csv/ConvidadosPorParticipacoes.csv)
 
+- [Quantidade total de participações de um Convidado por Ano](https://github.com/lucashpmelo/node-terminus/blob/main/src/data/csv/ConvidadosPorParticipacoesPorAno.csv)
+
 - [Quantidade de vezes que um Convidado participou de uma Categoria(NerdCast, Caneca de Mamicas, NerdTech, ...)](https://github.com/lucashpmelo/node-terminus/blob/main/src/data/csv/ConvidadosPorCategoria.csv)
 
 - [Quantidade de vezes que um Convidado participou de um Tema(Ciências, História, Política, ...)](https://github.com/lucashpmelo/node-terminus/blob/main/src/data/csv/ConvidadosPorTema.csv)

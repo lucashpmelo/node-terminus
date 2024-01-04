@@ -29,6 +29,14 @@ async function convidadosPorParticipacoes() {
   fs.writeFileSync('./src/data/csv/ConvidadosPorParticipacoes.csv', csv)
 }
 
+async function convidadosPorParticipacoesPorAno() {
+  const data = await nerdcastRepository.getConvidadosPorParticipacoesPorAno()
+
+  const csv = jsonToCSV(data)
+
+  fs.writeFileSync('./src/data/csv/ConvidadosPorParticipacoesPorAno.csv', csv)
+}
+
 async function episodiosPorDuracao() {
   const data = await nerdcastRepository.getEpisodiosPorDuracao()
 
@@ -76,6 +84,7 @@ async function run() {
     convidadosPorCategoria(),
     convidadosPorTema(),
     convidadosPorParticipacoes(),
+    convidadosPorParticipacoesPorAno(),
     episodiosPorDuracao(),
     quantidadeConvidadosPorPrograma(),
     totalEpisodiosPorAno(),
